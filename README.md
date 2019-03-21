@@ -1,5 +1,6 @@
 | Model | License | Photos | Info |
 |---|---|---|---|
+|M1902F1C|[Here](https://wap.tenaa.com.cn/WSFW/CertInfo.aspx?code=IXoAG%2bifKtj1zf2QxMKgKe7Brfi72bZu)|[Here](https://wap.tenaa.com.cn/WSFW/PicQuery2.aspx?code=IXoAG%2bifKtj1zf2QxMKgKe7Brfi72bZu)|[Here](https://wap.tenaa.com.cn/WSFW/ParamImportant.aspx?code=IXoAG%2bifKtj1zf2QxMKgKe7Brfi72bZu)|
 |M1810F6LE|[Here](https://wap.tenaa.com.cn/WSFW/CertInfo.aspx?code=IXoAG%2bifKtj1zf2QxMKgKfeLqixwSP42)|[Here](https://wap.tenaa.com.cn/WSFW/PicQuery2.aspx?code=IXoAG%2bifKtj1zf2QxMKgKfeLqixwSP42)|[Here](https://wap.tenaa.com.cn/WSFW/ParamImportant.aspx?code=IXoAG%2bifKtj1zf2QxMKgKfeLqixwSP42)|
 |M1901F7BE|[Here](https://wap.tenaa.com.cn/WSFW/CertInfo.aspx?code=IXoAG%2bifKtj1zf2QxMKgKb4jEsO3doQD)|[Here](https://wap.tenaa.com.cn/WSFW/PicQuery2.aspx?code=IXoAG%2bifKtj1zf2QxMKgKb4jEsO3doQD)|[Here](https://wap.tenaa.com.cn/WSFW/ParamImportant.aspx?code=IXoAG%2bifKtj1zf2QxMKgKb4jEsO3doQD)|
 |M1903F2A|[Here](https://wap.tenaa.com.cn/WSFW/CertInfo.aspx?code=IXoAG%2bifKtj1zf2QxMKgKa%2buy2QW0GUV)|[Here](https://wap.tenaa.com.cn/WSFW/PicQuery2.aspx?code=IXoAG%2bifKtj1zf2QxMKgKa%2buy2QW0GUV)|[Here](https://wap.tenaa.com.cn/WSFW/ParamImportant.aspx?code=IXoAG%2bifKtj1zf2QxMKgKa%2buy2QW0GUV)|
