@@ -5,6 +5,7 @@ from os import environ, rename, path, system
 from bs4 import BeautifulSoup
 from requests import get, post
 
+
 def compare(old, new):
     with open(old, 'r') as o, open(new, 'r') as n:
         old_data = o.readlines()
@@ -17,6 +18,7 @@ def compare(old, new):
     out = ''.join(changes[1:]).replace("+", "")
     with open(str(new).split(".")[0] + '_changes.md', 'w') as o:
         o.write(out)
+
 
 def tg_post(message):
     params = (
@@ -33,11 +35,13 @@ def tg_post(message):
     else:
         print("Telegram Error")
 
+
 def git_commit(file):
     system("git add {} && git -c \"user.name=XiaomiFirmwareUpdater\" "
            "-c \"user.email=xiaomifirmwareupdater@gmail.com\" commit -m \"[skip ci] {}: {}\" && "" \
        ""git push -q https://{}@github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker.git HEAD:master"
            .format(file, str(file).split(".")[0], today, GIT_OAUTH_TOKEN))
+
 
 # variables and tokens
 today = str(date.today())
@@ -50,9 +54,15 @@ if path.exists('tenaa.md'):
     rename('tenaa.md', 'tenaa_old.md')
 
 # scrap
-mi_data = BeautifulSoup(get('http://shouji.tenaa.com.cn/Mobile/mobileindex_MHSS.aspx?code=ppRNoBcXhFGdKI3DQ%2fot0g%3d%3d').content, 'html.parser').findAll("table", {"class": "lineGrayTD"})
-redmi_data = BeautifulSoup(get('http://shouji.tenaa.com.cn/Mobile/mobileindex_MHSS.aspx?code=ppRNoBcXhFHQLiUSN5abWg%3D%3D').content, 'html.parser').findAll("table", {"class": "lineGrayTD"})
-cert_data = BeautifulSoup(get('https://wap.tenaa.com.cn/WSFW/CertQueryResult.aspx?code=oJngJpdSu3KUvOjY51HvUAsAMbCrr8GOTsbUizvfWU0A2eyUmxgmLkHXNlFWiwVwJDHWdOzREVMtXycWOsHGUbDYTXGDdhs0gmJ%2FqMQjeNjCwczFyX3zDg%3D%3D').content, 'html.parser').findAll("table")[2]
+mi_data = BeautifulSoup(
+    get('http://shouji.tenaa.com.cn/Mobile/mobileindex_MHSS.aspx?code=ppRNoBcXhFGdKI3DQ%2fot0g%3d%3d').content,
+    'html.parser').findAll("table", {"class": "lineGrayTD"})
+redmi_data = BeautifulSoup(
+    get('http://shouji.tenaa.com.cn/Mobile/mobileindex_MHSS.aspx?code=ppRNoBcXhFHQLiUSN5abWg%3D%3D').content,
+    'html.parser').findAll("table", {"class": "lineGrayTD"})
+cert_data = BeautifulSoup(get(
+    'https://wap.tenaa.com.cn/WSFW/CertQueryResult.aspx?code=oJngJpdSu3KUvOjY51HvUAsAMbCrr8GOTsbUizvfWU0A2eyUmxgmLkHXNlFWiwVwJDHWdOzREVMtXycWOsHGUbDYTXGDdhs0gmJ%2FqMQjeNjCwczFyX3zDg%3D%3D').content,
+                          'html.parser').findAll("table")[2]
 
 with open('data.md', 'w') as o:
     for row in cert_data.find_all('tr')[2:-1]:
@@ -109,7 +119,9 @@ git_commit('tenaa.md')
 # Wi-Fi scrapper
 if path.exists('wifi.md'):
     rename('wifi.md', 'wifi_old.md')
-wifi_data = BeautifulSoup(get('https://www.wi-fi.org/product-finder-results?sort_by=certified&sort_order=desc&keywords=Xiaomi').content, 'html.parser').find("ul", {"class": "result-list"}).findAll("li")
+wifi_data = BeautifulSoup(
+    get('https://www.wi-fi.org/product-finder-results?sort_by=certified&sort_order=desc&keywords=Xiaomi').content,
+    'html.parser').find("ul", {"class": "result-list"}).findAll("li")
 with open('README.md', 'w') as o:
     o.write("| Product | Model | Type | Date | Certification |" + '\n')
     o.write("|---|---|---|---|---|" + '\n')
