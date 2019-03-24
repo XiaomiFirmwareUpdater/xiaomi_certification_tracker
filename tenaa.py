@@ -33,6 +33,12 @@ def tg_post(message):
     else:
         print("Telegram Error")
 
+def git_commit(file):
+    system("git add {} && git -c \"user.name=XiaomiFirmwareUpdater\" "
+           "-c \"user.email=xiaomifirmwareupdater@gmail.com\" commit -m \"[skip ci] {}: {}\" && "" \
+       ""git push -q https://{}@github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker.git HEAD:master"
+           .format(file, str(file).split(".")[0], today, GIT_OAUTH_TOKEN))
+
 # variables and tokens
 today = str(date.today())
 telegram_chat = "@XiaomiCertificationTracker"
@@ -98,9 +104,32 @@ with open('tenaa_changes.md', 'r') as c:
         telegram_message = "New TENAA Certificate detected! \n*Model:* `{}`\n*License:* {}\n*Info:* {}\n" \
                            "*Photos:* {}\n*Details:* {}\n".format(model, license, info, photos, details)
         tg_post(telegram_message)
+git_commit('tenaa.md')
 
-# commit and push
-system("git add README.md && git -c \"user.name=XiaomiFirmwareUpdater\" "
-       "-c \"user.email=xiaomifirmwareupdater@gmail.com\" commit -m \"[skip ci] sync: {}\" && "" \
-   ""git push -q https://{}@github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker.git HEAD:master"
-       .format(today, GIT_OAUTH_TOKEN))
+# Wi-Fi scrapper
+if path.exists('wifi.md'):
+    rename('wifi.md', 'wifi_old.md')
+wifi_data = BeautifulSoup(get('https://www.wi-fi.org/product-finder-results?sort_by=certified&sort_order=desc&keywords=Xiaomi').content, 'html.parser').find("ul", {"class": "result-list"}).findAll("li")
+with open('README.md', 'w') as o:
+    o.write("| Product | Model | Type | Date | Certification |" + '\n')
+    o.write("|---|---|---|---|---|" + '\n')
+    for i in wifi_data:
+        product = i.find("div", {"class": "details"}).findAll("span")[0]['title']
+        model = i.find("div", {"class": "details"}).findAll("span")[1]['title']
+        type = i.find("div", {"class": "details"}).findAll("span")[3]['title']
+        date = i.find("div", {"class": "details"}).findAll("span")[4]['title']
+        link = i.find("a", {"class": "download-cert"})['href']
+        o.write("|{}|{}|{}|{}|[Here]({})|".format(product, model, type, date, link) + '\n')
+compare('wifi_old.md', 'wifi.md')
+with open('wifi_changes.md', 'r') as c:
+    for line in c:
+        data = line.split("|")
+        product = data[1]
+        model = data[2]
+        type = data[3]
+        date = data[4]
+        link = data[5]
+        telegram_message = "New Wi-Fi Certificate detected! \n*Name:* `{}`\n*Model:* `{}`\n*Type:* `{}`\n" \
+                           "*Date:* `{}`\n*Certification:* {}\n".format(product, model, type, date, link)
+        tg_post(telegram_message)
+git_commit('wifi.md')
