@@ -122,7 +122,7 @@ if path.exists('wifi.md'):
 wifi_data = BeautifulSoup(
     get('https://www.wi-fi.org/product-finder-results?sort_by=certified&sort_order=desc&keywords=Xiaomi').content,
     'html.parser').find("ul", {"class": "result-list"}).findAll("li")
-with open('README.md', 'w') as o:
+with open('wifi.md', 'w') as o:
     o.write("| Product | Model | Type | Date | Certification |" + '\n')
     o.write("|---|---|---|---|---|" + '\n')
     for i in wifi_data:
