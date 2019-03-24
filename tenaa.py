@@ -18,12 +18,10 @@ if path.exists('README.md'):
 # scrap
 mi_data = BeautifulSoup(get('http://shouji.tenaa.com.cn/Mobile/mobileindex_MHSS.aspx?code=ppRNoBcXhFGdKI3DQ%2fot0g%3d%3d').content, 'html.parser').findAll("table", {"class": "lineGrayTD"})
 redmi_data = BeautifulSoup(get('http://shouji.tenaa.com.cn/Mobile/mobileindex_MHSS.aspx?code=ppRNoBcXhFHQLiUSN5abWg%3D%3D').content, 'html.parser').findAll("table", {"class": "lineGrayTD"})
-data = BeautifulSoup(get('https://wap.tenaa.com.cn/WSFW/CertQueryResult.aspx?code=oJngJpdSu3KUvOjY51HvUAsAMbCrr8GOTsbUizvfWU0A2eyUmxgmLkHXNlFWiwVwJDHWdOzREVMtXycWOsHGUbDYTXGDdhs0gmJ%2FqMQjeNjCwczFyX3zDg%3D%3D').content, 'html.parser').findAll("table")[2]
+cert_data = BeautifulSoup(get('https://wap.tenaa.com.cn/WSFW/CertQueryResult.aspx?code=oJngJpdSu3KUvOjY51HvUAsAMbCrr8GOTsbUizvfWU0A2eyUmxgmLkHXNlFWiwVwJDHWdOzREVMtXycWOsHGUbDYTXGDdhs0gmJ%2FqMQjeNjCwczFyX3zDg%3D%3D').content, 'html.parser').findAll("table")[2]
 
-with open('README.md', 'w') as o:
-    o.write("| Model | License | Photos | Info |" + '\n')
-    o.write("|---|---|---|---|" + '\n')
-    for row in data.find_all('tr')[2:-1]:
+with open('data.md', 'w') as o:
+    for row in cert_data.find_all('tr')[2:-1]:
         for cell in row.find_all('td'):
             if cell.a:
                 try:
@@ -33,6 +31,29 @@ with open('README.md', 'w') as o:
             else:
                 o.write("|" + str(cell.text).strip())
         o.write("|" + '\n')
+
+with open('README.md', 'w') as o, open('data.md', 'r') as i:
+    o.write("| Model | License | Photos | Info | Details |" + '\n')
+    o.write("|---|---|---|---|---|" + '\n')
+    for line in i:
+        model = line.split("|")[1]
+        try:
+            for table in mi_data:
+                for row in table.find_all('tr'):
+                    for cell in row.find_all('td'):
+                        if model in cell.text:
+                            details = "http://shouji.tenaa.com.cn/Mobile/" + cell.a['href']
+        except KeyError:
+            o.write("|")
+        try:
+            for table in redmi_data:
+                for row in table.find_all('tr'):
+                    for cell in row.find_all('td'):
+                        if model in cell.text:
+                            details = "http://shouji.tenaa.com.cn/Mobile/" + cell.a['href']
+        except KeyError:
+            o.write("|")
+        o.write(line.strip() + '[Here]({})|\n'.format(details))
 
 # diff
 with open('README_old.md', 'r') as old, open('README.md', 'r') as new:
@@ -50,23 +71,14 @@ with open('README_changes.md', 'w') as o:
 # post
 with open('README_changes.md', 'r') as c:
     for line in c:
-        info = line.split("|")
-        model = info[1]
-        license = info[2]
-        photos = info[3]
-        info = info[4]
-        for table in mi_data:
-            for row in table.find_all('tr'):
-                for cell in row.find_all('td'):
-                    if model in cell.text:
-                        details = "http://shouji.tenaa.com.cn/Mobile/" + cell.a['href']
-        for table in redmi_data:
-            for row in table.find_all('tr'):
-                for cell in row.find_all('td'):
-                    if model in cell.text:
-                        details = "http://shouji.tenaa.com.cn/Mobile/" + cell.a['href']
+        data = line.split("|")
+        model = data[1]
+        license = data[2]
+        photos = data[3]
+        info = data[4]
+        details = data[5]
         telegram_message = "New Certificate detected! \n*Device Model:* `{}`\n*License:* {}\n*Info:* {}\n" \
-                           "*Photos:* {}\n*Details:* [Here]({})\n".format(model, license, info, photos, details)
+                           "*Photos:* {}\n*Details:* {}\n".format(model, license, info, photos, details)
         params = (
             ('chat_id', telegram_chat),
             ('text', telegram_message),
