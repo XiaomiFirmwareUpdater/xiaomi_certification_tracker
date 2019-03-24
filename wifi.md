@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|MI MIX3 5G|M1810E5GG|Routers|2019-03-21|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82944)|
 |MI 9 SE|M1903F2G|Phones|2019-03-18|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82553)|
 |MI 9 SE|M1903F2G|Routers|2019-03-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82567)|
 |Redmi 7|M1810F6LH|Phones|2019-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82627)|
