@@ -1,0 +1,31 @@
+| Product | Model | Type | Date | Certification |
+|---|---|---|---|---|
+|MI 9 SE|M1903F2G|Phones|2019-03-18|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82553)|
+|MI 9 SE|M1903F2G|Routers|2019-03-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82567)|
+|Redmi 7|M1810F6LH|Phones|2019-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82627)|
+|Redmi 7|M1810F6LH|Routers|2019-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82628)|
+|Redmi Y3|M1810F6G|Phones|2019-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82629)|
+|Redmi Y3|M1810F6G|Routers|2019-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82630)|
+|Yeelight LED Ceiling Light|YLXD41YL|Other|2019-03-08|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82528)|
+|Yeelight LED Ceiling Light 480|YLXD42YL|Other|2019-03-08|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82529)|
+|Redmi 7|M1810F6LG|Routers|2019-02-22|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82194)|
+|Redmi 7|M1810F6LG|Phones|2019-02-22|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82192)|
+|Redmi Note7|M1901F7H|Phones|2019-02-15|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82198)|
+|Redmi Note7|M1901F7H|Routers|2019-02-15|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82199)|
+|Redmi Note7|M1901F7G|Routers|2019-01-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81703)|
+|Redmi Note7|M1901F7G|Phones|2019-01-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81702)|
+|MI 9|M1902F1G|Routers|2019-01-25|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81683)|
+|MI 9|M1902F1G|Phones|2019-01-25|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81682)|
+|Redmi Go|M1903C3GH|Routers|2018-12-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81348)|
+|Redmi Go|M1903C3GH|Phones|2018-12-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81350)|
+|Redmi Go|M1903C3GG|Routers|2018-12-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81130)|
+|Redmi Go|M1903C3GG|Phones|2018-12-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81129)|
+|MI BOX|MDZ-22-AB|Televisions & Set Top Boxes|2018-12-07|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA80340)|
+|MIX3|M1810E5A|Routers|2018-11-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA80134)|
+|MIX3|M1810E5A|Phones|2018-11-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA80133)|
+|Robot Vacuum Cleaner|SDJQR02RR|Other|2018-10-01|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76990)|
+|Mi Wireless Inkjet Printer|PMDYJ01HT|Computers & Accessories|2018-09-19|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79154)|
+|Mi Wireless Photo Printer|ZPDYJ01HT|Computers & Accessories|2018-09-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79033)|
+|MI 8 Pro|M1807E8A|Routers|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79173)|
+|MI 8 Pro|M1807E8A|Phones|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79174)|
+|MI 8 Lite|M1808D2TG|Routers|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79175)|
