@@ -5,15 +5,15 @@ import extra
 from requests import get
 
 # backup
-if path.exists('wifi.md'):
-    rename('wifi.md', 'wifi_old.md')
+if path.exists('data/wifi.md'):
+    rename('data/wifi.md', 'data/wifi_old.md')
 
 # scrap
 wifi_data = BeautifulSoup(
     get(
         'https://www.wi-fi.org/product-finder-results?sort_by=certified&sort_order=desc&keywords=Xiaomi&items=150').content,
     'html.parser').find("ul", {"class": "result-list"}).findAll("li")
-with open('wifi.md', 'w') as o:
+with open('data/wifi.md', 'w') as o:
     o.write("| Product | Model | Type | Date | Certification |" + '\n')
     o.write("|---|---|---|---|---|" + '\n')
     for i in wifi_data:
@@ -25,10 +25,10 @@ with open('wifi.md', 'w') as o:
         o.write("|{}|{}|{}|{}|[Here]({})|".format(product, model, type, date, link) + '\n')
 
 # diff
-extra.compare('wifi_old.md', 'wifi.md')
+extra.compare('data/wifi_old.md', 'data/wifi.md')
 
 # post
-with open('wifi_changes.md', 'r') as c:
+with open('data/wifi_changes.md', 'r') as c:
     for line in c:
         data = line.split("|")
         product = data[1]
@@ -41,4 +41,4 @@ with open('wifi_changes.md', 'r') as c:
         extra.tg_post(telegram_message)
 
 # commit and push
-extra.git_commit_push('wifi.md')
+extra.git_commit_push('data/wifi.md')

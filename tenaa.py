@@ -5,8 +5,8 @@ import extra
 from requests import get
 
 # backup
-if path.exists('tenaa.md'):
-    rename('tenaa.md', 'tenaa_old.md')
+if path.exists('data/tenaa.md'):
+    rename('data/tenaa.md', 'data/tenaa_old.md')
 
 # scrap
 mi_data = BeautifulSoup(
@@ -19,7 +19,7 @@ cert_data = BeautifulSoup(get(
     'https://wap.tenaa.com.cn/WSFW/CertQueryResult.aspx?code=oJngJpdSu3KUvOjY51HvUAsAMbCrr8GOTsbUizvfWU0A2eyUmxgmLkHXNlFWiwVwJDHWdOzREVMtXycWOsHGUbDYTXGDdhs0gmJ%2FqMQjeNjCwczFyX3zDg%3D%3D').content,
                           'html.parser').findAll("table")[2]
 
-with open('data.md', 'w') as o:
+with open('data/tmp.md', 'w') as o:
     for row in cert_data.find_all('tr')[2:-1]:
         for cell in row.find_all('td'):
             if cell.a:
@@ -31,7 +31,7 @@ with open('data.md', 'w') as o:
                 o.write("|" + str(cell.text).strip())
         o.write("|" + '\n')
 
-with open('tenaa.md', 'w') as o, open('data.md', 'r') as i:
+with open('data/tenaa.md', 'w') as o, open('data/tmp.md', 'r') as i:
     o.write("| Model | License | Photos | Info | Details |" + '\n')
     o.write("|---|---|---|---|---|" + '\n')
     for line in i:
@@ -55,10 +55,10 @@ with open('tenaa.md', 'w') as o, open('data.md', 'r') as i:
         o.write(line.strip() + '[Here]({})|\n'.format(details))
 
 # diff
-extra.compare('tenaa_old.md', 'tenaa.md')
+extra.compare('data/tenaa_old.md', 'data/tenaa.md')
 
 # post
-with open('tenaa_changes.md', 'r') as c:
+with open('data/tenaa_changes.md', 'r') as c:
     for line in c:
         data = line.split("|")
         model = data[1]

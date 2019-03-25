@@ -1,3 +1,4 @@
-*_changes.md
-*_old.md
-data.md
+data/*_changes.md
+data/*_old.md
+data/tmp*
+__pycache__/
