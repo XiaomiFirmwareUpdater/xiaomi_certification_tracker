@@ -5,7 +5,8 @@ python:
 
 script:
   - pip3 install -r requirements.txt
-  - python3 script.py
+  - python3 tenaa.py
+  - python3 wifi.py
 
 notifications:
   email:
