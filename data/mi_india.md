@@ -1,0 +1,33 @@
+# Xiaomi devices for Indian market
+
+- Redmi 2
+- Redmi Note
+- Redmi Note 3
+- Redmi 3S
+- Redmi Note 4
+- Redmi 4A
+- Redmi 4
+- Redmi Y1 Lite
+- Redmi Y1 
+- Redmi 5A
+- Redmi 5
+- Redmi Note 5
+- Redmi Note 5 Pro
+- Redmi Y2
+- Redmi 6A
+- Redmi 6
+- Redmi 6 Pro
+- Redmi Note 6 Pro
+- Redmi Go
+- Redmi Note 7
+- Redmi Note 7 Pro
+- Redmi 7
+- Mi 5
+- Mi Max
+- Mi 4
+- Mi 4i
+- Mi Max 2
+- Mi A1
+- Mi Mix 2
+- Mi A2
+- POCO F1
