@@ -3,4 +3,6 @@ A side project by XiaomiFirmwareUpdater, python 3 script that scrapes Xiaomi pro
 
 #### Currently added websites:
 - [TENAA](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tenaa.md)
-- [Wi-Fi.org](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/wifi.md)
+- [Wi-Fi Alliance](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/wifi.md)
+- [Xiaomi Global](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/mi_global.md)
+- [Xiaomi India](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/mi_india.md)
