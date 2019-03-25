@@ -36,6 +36,7 @@ with open('data/tenaa.md', 'w') as o, open('data/tmp.md', 'r') as i:
     o.write("|---|---|---|---|---|" + '\n')
     for line in i:
         model = line.split("|")[1]
+        details = ""
         try:
             for table in mi_data:
                 for row in table.find_all('tr'):
