@@ -32,10 +32,11 @@ with open('data/tmp.md', 'w') as o:
         o.write("|" + '\n')
 
 with open('data/tenaa.md', 'w') as o, open('data/tmp.md', 'r') as i:
+    sorted_data = sorted(i.readlines(), reverse=True)
     o.write("| Model | License | Photos | Info | Details |" + '\n')
     o.write("|---|---|---|---|---|" + '\n')
-    for line in i:
-        model = line.split("|")[1]
+    for item in sorted_data:
+        model = item.split("|")[1]
         details = ""
         try:
             for table in mi_data:
@@ -53,7 +54,7 @@ with open('data/tenaa.md', 'w') as o, open('data/tmp.md', 'r') as i:
                             details = "http://shouji.tenaa.com.cn/Mobile/" + cell.a['href']
         except KeyError:
             o.write("|")
-        o.write(line.strip() + '[Here]({})|\n'.format(details))
+        o.write(item.strip() + '[Here]({})|\n'.format(details))
 
 # diff
 extra.compare('data/tenaa_old.md', 'data/tenaa.md')
