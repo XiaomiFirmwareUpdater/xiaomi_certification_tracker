@@ -15,7 +15,7 @@ nbtc_data = BeautifulSoup(
     'html.parser').find("div", {"class": "row item-blocks-connected"}).findAll("div", {"class": "row"})[1:]
 with open('data/nbtc.md', 'w') as o:
     o.write("| Brand | Product | Model | Certificate |" + '\n')
-    o.write("|---|---|---|---|---|" + '\n')
+    o.write("|---|---|---|---|" + '\n')
     for i in nbtc_data:
         data = i.find("a")
         if data:

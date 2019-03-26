@@ -1,5 +1,5 @@
 | Brand | Product | Model | Certificate |
-|---|---|---|---|---|
+|---|---|---|---|
 |Redmi|Redmi 7|M1810F6LG|[B38098-19](http://mocheck.nbtc.go.th/search/1504578)|
 |Redmi|Redmi Note 7|M1901F7G|[B38074-19](http://mocheck.nbtc.go.th/search/1504153)|
 |MI|Mi 9|M1902F1G|[B38076-19](http://mocheck.nbtc.go.th/search/1504225)|
