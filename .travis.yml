@@ -5,11 +5,12 @@ python:
 
 script:
   - pip3 install -r requirements.txt
-  - python3 tenaa.py
+  - python3 tenaa_cert.py
+  - python3 tenaa_mobile.py
+  - python3 nbtc.py
   - python3 wifi.py
   - python3 mi_global.py
   - python3 mi_india.py
-  - python3 nbtc.py
 
 notifications:
   email:
