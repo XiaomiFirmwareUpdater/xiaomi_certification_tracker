@@ -9,6 +9,7 @@ script:
   - python3 wifi.py
   - python3 mi_global.py
   - python3 mi_india.py
+  - python3 nbtc.py
 
 notifications:
   email:
