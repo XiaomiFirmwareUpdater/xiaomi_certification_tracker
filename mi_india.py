@@ -30,4 +30,4 @@ with open('data/mi_india_changes.md', 'r') as c:
         extra.tg_post(telegram_message)
 
 # commit and push
-extra.git_commit_push('data/mi_global.md')
+extra.git_commit_push('mi_india.md')

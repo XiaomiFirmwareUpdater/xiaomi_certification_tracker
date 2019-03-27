@@ -13,7 +13,7 @@ if path.exists('data/fccid.md'):
 fccid_data = BeautifulSoup(get('https://fccid.io/2AFZZ').content, 'html.parser').findAll("table", {"class": "table"})[1]
 data = list(dict.fromkeys(fccid_data))[2:-1]
 with open('data/fccid.md', 'w') as o:
-    o.write("| Model | Date | Certification |" + '\n')
+    o.write("| FCC ID | Date | Certification |" + '\n')
     o.write("|---|---|---|" + '\n')
     for i in data:
         model = BeautifulSoup(str(i), 'html.parser').find('a').text
@@ -34,4 +34,4 @@ with open('data/fccid_changes.md', 'r') as c:
         extra.tg_post(telegram_message)
 
 # commit and push
-extra.git_commit_push('data/fccid.md')
+extra.git_commit_push('fccid.md')

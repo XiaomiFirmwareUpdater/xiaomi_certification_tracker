@@ -1,4 +1,4 @@
-| Model | Date | Certification |
+| FCC ID | Date | Certification |
 |---|---|---|
 |2AFZZ-XMSF2G|2019-03-13|[Here](https://gov.fccid.io/2AFZZ-XMSF2G)|
 |2AFZZ-XMSF1G|2019-02-25|[Here](https://gov.fccid.io/2AFZZ-XMSF1G)|

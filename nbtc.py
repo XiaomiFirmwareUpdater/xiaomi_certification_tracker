@@ -46,4 +46,4 @@ with open('data/nbtc_changes.md', 'r') as c:
         extra.tg_post(telegram_message)
 
 # commit and push
-#extra.git_commit_push('data/nbtc.md')
+extra.git_commit_push('nbtc.md')
