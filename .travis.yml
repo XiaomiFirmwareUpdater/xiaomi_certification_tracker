@@ -5,6 +5,7 @@ python:
 
 script:
   - pip3 install -r requirements.txt
+  - python3 fccid.py
   - python3 tenaa_cert.py
   - python3 tenaa_mobile.py
   - python3 nbtc.py
