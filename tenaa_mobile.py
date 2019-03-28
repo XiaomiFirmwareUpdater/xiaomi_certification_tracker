@@ -20,7 +20,7 @@ with open('data/tenaa_mobile.md', 'w', encoding='utf-8') as o:
         for row in table.findAll('tr'):
             for cell in row.findAll('td', {"style": "height:15px;"}):
                 if "M" in cell.text:
-                    o.write('- [' + cell.a.text.replace("Ð¡Ã×", "MI ") + '](https://' + cell.a['href'] + ')\n')
+                    o.write('- [' + cell.a.text.replace("Ð¡Ã×", "MI ") + '](http://shouji.tenaa.com.cn/Mobile/' + cell.a['href'] + ')\n')
 
 # diff
 extra.compare('data/tenaa_mobile_old.md', 'data/tenaa_mobile.md')
