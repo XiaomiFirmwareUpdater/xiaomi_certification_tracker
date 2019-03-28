@@ -10,3 +10,6 @@ A side project by XiaomiFirmwareUpdater, python 3 script that scrapes Xiaomi pro
 - [Wi-Fi Alliance](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/wifi.md)
 - [Xiaomi Global](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/mi_global.md)
 - [Xiaomi India](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/mi_india.md)
+
+#### All-in-one compare table:
+- [Here](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/aio.md)
