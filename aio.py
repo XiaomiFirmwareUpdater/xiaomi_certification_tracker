@@ -53,7 +53,7 @@ for model in models:
 # Write the table
 data = list(dict.fromkeys(compare))  # remove duplicates
 with open('data/aio.md', 'w') as o:
-    o.write('| Name | Model | FCCID | Thailand NBTC | Chinese TENAA | Indonesian TKDN | Wi-Fi Alliance  |\n')
+    o.write('| Name | Model | [FCCID](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/fccid.md) | [Thailand NBTC](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/nbtc.md) | [Chinese TENAA](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tenaa_cert.md) | [Indonesian TKDN](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tkdn.md) | [Wi-Fi Alliance](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/wifi.md)  |\n')
     o.write('|---|---|---|---|---|---|---|\n')
     for line in data:
         o.write(line + '\n')
