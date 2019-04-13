@@ -1,7 +1,7 @@
 | Name | Model | [FCCID](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/fccid.md) | [Thailand NBTC](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/nbtc.md) | [Chinese TENAA](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tenaa_mobile.md) | [Indonesian TKDN](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tkdn.md) | [Wi-Fi Alliance](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/wifi.md)  |
 |---|---|---|---|---|---|---|
 |MI 9 SE|M1903F2G|✓|✓|✗|✗|✓|
-|MI MIX3 5G|M1810E5GG|✗|✗|✗|✗|✓|
+|MI MIX3 5G|M1810E5GG|✓|✗|✗|✗|✓|
 |Redmi 7|M1810F6LH|✓|✗|✗|✗|✓|
 |Redmi 7|M1810F6G|✗|✗|✗|✗|✓|
 |Redmi 7|M1810F6LG|✓|✓|✗|✓|✓|
