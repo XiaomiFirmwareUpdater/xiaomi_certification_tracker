@@ -25,6 +25,7 @@
 |MI BOX|MDZ-22-AB|Televisions & Set Top Boxes|2018-12-07|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA80340)|
 |MIX3|M1810E5A|Routers|2018-11-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA80134)|
 |MIX3|M1810E5A|Phones|2018-11-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA80133)|
+|2.4GHz WLAN module|IHFB01CM|Smart Home|2018-10-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79719)|
 |Robot Vacuum Cleaner|SDJQR02RR|Other|2018-10-01|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76990)|
 |Mi Wireless Inkjet Printer|PMDYJ01HT|Computers & Accessories|2018-09-19|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79154)|
 |Mi Wireless Photo Printer|ZPDYJ01HT|Computers & Accessories|2018-09-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79033)|
