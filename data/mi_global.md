@@ -50,3 +50,4 @@
 - [Redmi Go](https://download.appmifile.com/744_updatepdf_in/22/02/2019/abb9ea11-e912-4b8b-9142-f87ea6308b77.pdf)
 - [Redmi Note 7](https://download.appmifile.com/203_updatepdf_in/11/03/2019/969826ce-f463-4569-a80c-ff5b6815973a.pdf)
 - [Redmi 7](https://download.appmifile.com/470_updatepdf_in/19/03/2019/d2640f1f-6d8e-4989-9c6f-9f44853b1b74.pdf)
+- [Redmi Y3](https://download.appmifile.com/271_updatepdf_in/24/04/2019/fbd49494-ab1f-4def-997d-33faa18ba56e.pdf)
