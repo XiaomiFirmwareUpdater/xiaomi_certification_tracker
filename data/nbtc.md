@@ -1,5 +1,6 @@
 | Brand | Product | Model | Certificate |
 |---|---|---|---|
+|MI|Mi 9SE|M1903F2G|[B38165-19](http://mocheck.nbtc.go.th/search/1505522)|
 |Redmi|Redmi 7|M1810F6LG|[B38098-19](http://mocheck.nbtc.go.th/search/1504578)|
 |Redmi|Redmi Note 7|M1901F7G|[B38074-19](http://mocheck.nbtc.go.th/search/1504153)|
 |MI|Mi 9|M1902F1G|[B38076-19](http://mocheck.nbtc.go.th/search/1504225)|
@@ -41,4 +42,3 @@
 |MI||2013121|[B38350-14](http://mocheck.nbtc.go.th/search/30542)|
 |MI||2013062-T|[B38307-14](http://mocheck.nbtc.go.th/search/30506)|
 |MI||2013029|[B38308-14](http://mocheck.nbtc.go.th/search/30518)|
-|MI|Mi 9SE|M1903F2G|[B38165-19](http://mocheck.nbtc.go.th/search/1505522)|
