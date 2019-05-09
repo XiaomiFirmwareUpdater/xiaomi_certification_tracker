@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Laptop Computer|171502|Computers & Accessories|2019-05-08|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78420)|
 |MI 9 SE|M1903F2G|Phones|2019-03-25|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82553)|
 |MI MIX3 5G|M1810E5GG|Phones|2019-03-25|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82943)|
 |MI MIX3 5G|M1810E5GG|Routers|2019-03-21|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82944)|
@@ -66,7 +67,6 @@
 |Laptop Computer|TM1802|Other|2018-07-06|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78468)|
 |Mi Air Purifier Pro|AC-M3-CA|Smart Home|2018-07-05|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78422)|
 |Mi Air Purifier 2|AC-M2-AA|Smart Home|2018-07-05|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78423)|
-|Laptop Computer|171502|Computers & Accessories|2018-07-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78420)|
 |Mi Air Purifier 2S|AC-M4-AA|Smart Home|2018-07-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78297)|
 |Redmi Note 5|M1803E7SG|Phones|2018-06-04|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77899)|
 |Redmi S2|M1803E6G|Phones|2018-05-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77860)|
