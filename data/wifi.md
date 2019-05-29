@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi Smart Home Hub|ZNDMWG03LM|Smart Home|2019-05-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89771)|
 |Laptop Computer|171502|Computers & Accessories|2019-05-08|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78420)|
 |MI 9 SE|M1903F2G|Phones|2019-03-25|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82553)|
 |MI MIX3 5G|M1810E5GG|Phones|2019-03-25|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82943)|
