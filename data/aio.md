@@ -15,8 +15,8 @@
 |MI 8 Pro|M1807E8A|✗|✓|✓|✗|✓|
 |MI 8 Lite|M1808D2TG|✓|✓|✗|✓|✓|
 |Mi LED Ceiling Light|MJXDD01YL|✗|✗|✗|✗|✓|
-|MI 8|M1803E1A|✓|✓|✗|✗|✓|
 |POCOPHONE F1|M1805E10A|✓|✓|✗|✓|✓|
+|MI 8|M1803E1A|✓|✓|✗|✗|✓|
 |MI MIX2S|M1803D5XA|✗|✓|✗|✗|✓|
 |Redmi Note6 Pro|M1806E7TH|✓|✗|✗|✗|✓|
 |Redmi Note6 Pro|M1806E7TG|✓|✓|✗|✓|✓|
@@ -63,6 +63,6 @@
 |MI 8 Lite|M1808D2TT|✗|✗|✓|✗|✗|
 |MI 8 Lite|M1808D2TE|✗|✗|✓|✗|✗|
 |MI 8 Lite|M1808D2TC|✗|✗|✓|✗|✗|
+|MI 8 Pro|M1807E8S|✗|✗|✓|✗|✗|
 |MI Pad 4 Plus|M1806D9PE|✗|✗|✓|✗|✗|
 |MI Pad 4|M1806D9E|✗|✗|✓|✗|✗|
-|MI 8|M1803E1C|✗|✗|✓|✗|✗|
