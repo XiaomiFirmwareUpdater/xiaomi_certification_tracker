@@ -23,6 +23,8 @@
 - Redmi Note 7 Pro
 - Redmi 7
 - Redmi Y3
+- Redmi K20
+- Redmi K20 Pro
 - Mi 5
 - Mi Max
 - Mi 4
