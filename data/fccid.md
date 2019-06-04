@@ -1,5 +1,6 @@
 | FCC ID | Date | Certification |
 |---|---|---|
+|2AFZZ-RMSC3EG|2019-06-03|[Here](https://gov.fccid.io/2AFZZ-RMSC3EG)|
 |2AFZZ-XMSE5GG|2019-04-12|[Here](https://gov.fccid.io/2AFZZ-XMSE5GG)|
 |2AFZZ-XMSF2G|2019-03-13|[Here](https://gov.fccid.io/2AFZZ-XMSF2G)|
 |2AFZZ-XMSF1G|2019-02-25|[Here](https://gov.fccid.io/2AFZZ-XMSF1G)|
