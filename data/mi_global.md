@@ -52,3 +52,4 @@
 - [Redmi Note 7](https:https://download.appmifile.com/203_updatepdf_in/11/03/2019/969826ce-f463-4569-a80c-ff5b6815973a.pdf)
 - [Redmi 7](https:https://download.appmifile.com/470_updatepdf_in/19/03/2019/d2640f1f-6d8e-4989-9c6f-9f44853b1b74.pdf)
 - [Redmi Y3](https:https://download.appmifile.com/271_updatepdf_in/24/04/2019/fbd49494-ab1f-4def-997d-33faa18ba56e.pdf)
+- [Redmi 7A](https:https://download.appmifile.com/505_updatepdf_in/06/06/2019/4fc78c8a-cc09-4917-be54-98885b3ece27.pdf)
