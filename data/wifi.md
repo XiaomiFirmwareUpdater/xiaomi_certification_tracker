@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi Wireless Inkjet Printer|PMDYJ01HT|Computers & Accessories|2019-06-06|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79154)|
 |Mi Smart Home Hub|ZNDMWG03LM|Smart Home|2019-05-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89771)|
 |Laptop Computer|171502|Computers & Accessories|2019-05-08|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78420)|
 |MI 9 SE|M1903F2G|Phones|2019-03-25|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82553)|
@@ -29,7 +30,6 @@
 |MIX3|M1810E5A|Phones|2018-11-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA80133)|
 |2.4GHz WLAN module|IHFB01CM|Smart Home|2018-10-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79719)|
 |Robot Vacuum Cleaner|SDJQR02RR|Other|2018-10-01|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76990)|
-|Mi Wireless Inkjet Printer|PMDYJ01HT|Computers & Accessories|2018-09-19|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79154)|
 |Mi Wireless Photo Printer|ZPDYJ01HT|Computers & Accessories|2018-09-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79033)|
 |MI 8 Pro|M1807E8A|Routers|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79173)|
 |MI 8 Pro|M1807E8A|Phones|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79174)|
