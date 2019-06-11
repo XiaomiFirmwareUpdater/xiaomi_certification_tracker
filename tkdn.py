@@ -14,7 +14,7 @@ if path.exists('data/tkdn.md'):
 # scrap
 DATA = BeautifulSoup(
     get('http://tkdn.kemenperin.go.id/sertifikat_perush.php?' +
-        'id=u3XRjsixJLDGlwf0VRZb2q9VjYsbJZJ7T8GXTnJIcVI').content,
+        'id=4eXbKT9nPVUvKv8uQGWZqlxW-yZC7dJ6460WUDT_6So').content,
     'html.parser').find("table", {"class": "table table-hover"}).findAll("a")
 LINKS = []
 for i in DATA:
