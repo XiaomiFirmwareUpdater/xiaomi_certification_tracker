@@ -44,3 +44,4 @@
 |MI||2013062-T|[B38307-14](http://mocheck.nbtc.go.th/search/30506)|
 |MI||2013029|[B38308-14](http://mocheck.nbtc.go.th/search/30518)|
 |MI|Mi 9T|M1903F10G|[B38292-19](http://mocheck.nbtc.go.th/search/1507254)|
+|Redmi|Redmi 7A|M1903C3EG|[B38368-19](http://mocheck.nbtc.go.th/search/1508227)|
