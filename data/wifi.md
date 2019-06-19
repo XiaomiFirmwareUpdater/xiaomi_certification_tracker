@@ -1,5 +1,7 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|MI 9T Pro|M1903F11G|Routers|2019-06-18|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90128)|
+|MI 9T Pro|M1903F11G|Phones|2019-06-18|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90127)|
 |Automatic battery-operated cleaner for household Use|BL-R8189ME1|Other|2019-06-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83235)|
 |Mi Wireless Inkjet Printer|PMDYJ01HT|Computers & Accessories|2019-06-06|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79154)|
 |Mi Smart Home Hub|ZNDMWG03LM|Smart Home|2019-05-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89771)|
