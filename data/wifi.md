@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|MI TV|L32M5-5ASP|Televisions & Set Top Boxes|2019-06-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90129)|
 |MI 9T Pro|M1903F11G|Routers|2019-06-18|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90128)|
 |MI 9T Pro|M1903F11G|Phones|2019-06-18|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90127)|
 |Automatic battery-operated cleaner for household Use|BL-R8189ME1|Other|2019-06-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83235)|
@@ -39,8 +40,8 @@
 |MI 8 Lite|M1808D2TG|Routers|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79175)|
 |MI 8 Lite|M1808D2TG|Phones|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79177)|
 |Mi LED Ceiling Light|MJXDD01YL|Other|2018-09-10|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78979)|
-|MI 8|M1803E1A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78675)|
 |POCOPHONE F1|M1805E10A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78953)|
+|MI 8|M1803E1A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78675)|
 |MI MIX2S|M1803D5XA|Phones|2018-08-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78619)|
 |Mi Home Security Camera Basic 1080P|SXJ02ZM|Smart Home|2018-08-27|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78899)|
 |Redmi Note6 Pro|M1806E7TH|Phones|2018-08-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78949)|
