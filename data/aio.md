@@ -13,7 +13,7 @@
 |Redmi Go|M1903C3GG|✓|✓|✗|✗|✓|
 |MI BOX|MDZ-22-AB|✗|✗|✗|✗|✓|
 |MI MIX 3|M1810E5A|✗|✓|✓|✗|✓|
-|MI 8 Pro|M1807E8A|✗|✓|✓|✗|✓|
+|MI 8 Pro|M1807E8A|✗|✓|✗|✗|✓|
 |MI 8 Lite|M1808D2TG|✓|✓|✗|✗|✓|
 |Mi LED Ceiling Light|MJXDD01YL|✗|✗|✗|✗|✓|
 |MI 8|M1803E1A|✓|✓|✗|✗|✓|
@@ -42,6 +42,8 @@
 |Xiaomi Note 3|MCE8|✗|✓|✗|✗|✓|
 |Redmi 5A|MCG3B|✗|✓|✗|✗|✓|
 |Redmi 4X|MAG138|✓|✗|✗|✗|✓|
+||M1906F9SC|✗|✗|✓|✗|✗|
+||M1904F3BT|✗|✗|✓|✗|✗|
 ||M1904F3BC|✗|✗|✓|✗|✗|
 |MI 9 SE|M1903F2A|✗|✗|✓|✗|✗|
 |MI 9T Pro|M1903F11C|✗|✗|✓|✗|✗|
@@ -66,4 +68,3 @@
 |MI 8 Lite|M1808D2TT|✗|✗|✓|✗|✗|
 |MI 8 Lite|M1808D2TE|✗|✗|✓|✗|✗|
 |MI 8 Lite|M1808D2TC|✗|✗|✓|✗|✗|
-|MI Pad 4 Plus|M1806D9PE|✗|✗|✓|✗|✗|
