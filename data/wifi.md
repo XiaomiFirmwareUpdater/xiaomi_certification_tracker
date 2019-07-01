@@ -11,6 +11,7 @@
 |Mi Wireless Inkjet Printer|PMDYJ01HT|Computers & Accessories|2019-06-06|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79154)|
 |Mi Smart Home Hub|ZNDMWG03LM|Smart Home|2019-05-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89771)|
 |Laptop Computer|171502|Computers & Accessories|2019-05-08|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78420)|
+|LED TV|L43M5-5ARU|Televisions & Set Top Boxes|2019-04-22|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83439)|
 |MI 9 SE|M1903F2G|Phones|2019-03-25|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82553)|
 |MI MIX3 5G|M1810E5GG|Phones|2019-03-25|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82943)|
 |MI MIX3 5G|M1810E5GG|Routers|2019-03-21|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82944)|
