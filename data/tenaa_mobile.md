@@ -1,5 +1,7 @@
 # Xiaomi devices listed in TENAA Mobile website
 
+- [M1906F9SC](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuC4xL7n2y32bxvhG85%2byeuNZtuAxCOifRybBE3rxaIUUA%3d%3d)
+- [M1904F3BC](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuC4xL7n2y32byk78%2bp9ecwltdRy7GPB2XsM5NCHjRkWBQ%3d%3d)
 - [M1902F1C](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuC4xL7n2y32b11E06h2NPz7Phfk24FBitPm6chCM7QfHw%3d%3d)
 - [M1903F2A](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuC4xL7n2y32b6PHoI0aLoiDkUVMoXAzEH2GngesmOfkxA%3d%3d)
 - [M1902F1T](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuC4xL7n2y32b9fNuDZGlD7IKU9py1er%2fvjsSY6SdEmq6g%3d%3d)
@@ -43,9 +45,6 @@
 - [M1803D5XA](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuAUCC2CA9dkLS0HuXHfuhBFhHXhsb1ZQqsE12hoLvbyqQ%3d%3d)
 - [MI MIX](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuAUCC2CA9dkLTQ5LDzfH3n9ZsVGr2gpponXWK89gUKVJg%3d%3d)
 - [M1803D5XE](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuAUCC2CA9dkLTQ5LDzfH3n9ZsVGr2gpponXWK89gUKVJg%3d%3d)
-- [MI MIX](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuAUCC2CA9dkLeKuBioSxJnWHFw28ZhguZpx0XZsLvkrAg%3d%3d)
-- [M1803D5XT](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuAUCC2CA9dkLeKuBioSxJnWHFw28ZhguZpx0XZsLvkrAg%3d%3d)
-- [MEC7S](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuCMnrt9W2k9ogsHnmQWNeHx5JFHjqhJK%2b8%3d)
 - [M1903F10C](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=iOkwV7UWhfBT7wenlphQgfW22ufg8JgW%2fgvqzAwu4GFNHBukzx2YaA%3d%3d)
 - [M1903C3ET](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=iOkwV7UWhfBT7wenlphQgS2tluAUprrPerx%2fxIjMkabge5oVfBSRpQ%3d%3d)
 - [M1903F11C](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=iOkwV7UWhfBT7wenlphQgeW26vob5H4pWP%2fIC04ZHmTfPK7EQ0rcfw%3d%3d)
