@@ -1,5 +1,7 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi A3|M1906F9SH|Routers|2019-07-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90835)|
+|Mi A3|M1906F9SH|Phones|2019-07-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90834)|
 |MI TV|L32M5-5ASP|Televisions & Set Top Boxes|2019-06-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90129)|
 |MI 9T Pro|M1903F11G|Routers|2019-06-18|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90128)|
 |MI 9T Pro|M1903F11G|Phones|2019-06-18|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90127)|
