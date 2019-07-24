@@ -35,3 +35,4 @@
 - Mi Mix 2
 - Mi A2
 - POCO F1
+- Mi A3
