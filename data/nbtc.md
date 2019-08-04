@@ -1,5 +1,7 @@
 | Brand | Product | Model | Certificate |
 |---|---|---|---|
+|Redmi|Redmi 7A|M1903C3EG|[B38368-19](http://mocheck.nbtc.go.th/search/1508227)|
+|MI|Mi 9T|M1903F10G|[B38292-19](http://mocheck.nbtc.go.th/search/1507254)|
 |MI|Mi Play|M1901F9E|[B38247-19](http://mocheck.nbtc.go.th/search/1506728)|
 |MI|Mi 9SE|M1903F2G|[B38165-19](http://mocheck.nbtc.go.th/search/1505522)|
 |Redmi|Redmi 7|M1810F6LG|[B38098-19](http://mocheck.nbtc.go.th/search/1504578)|
@@ -24,7 +26,7 @@
 |MI||MEG7|[B38772-17](http://mocheck.nbtc.go.th/search/1026986)|
 |Mi||MCE8|[B38729-17](http://mocheck.nbtc.go.th/search/466809)|
 |Mi||MCG3B|[B38723-17](http://mocheck.nbtc.go.th/search/365028)|
-|Mi|Redmi Note 5A Prime |MDG6S(Redmi|[B38697-17](http://mocheck.nbtc.go.th/search/57223)|
+|Mi|Redmi Note 5A Prime|MDG6S(Redmi|[B38697-17](http://mocheck.nbtc.go.th/search/57223)|
 |Mi|MIX2|MDE5(MIX2(D5))|[B38670-17](http://mocheck.nbtc.go.th/search/57207)|
 |Mi|Redmi Note 5A|MDG6|[B38635-17](http://mocheck.nbtc.go.th/search/57191)|
 |Mi|Mi A1|MDG2|[B38634-17](http://mocheck.nbtc.go.th/search/57173)|
@@ -43,5 +45,5 @@
 |MI||2013121|[B38350-14](http://mocheck.nbtc.go.th/search/30542)|
 |MI||2013062-T|[B38307-14](http://mocheck.nbtc.go.th/search/30506)|
 |MI||2013029|[B38308-14](http://mocheck.nbtc.go.th/search/30518)|
-|MI|Mi 9T|M1903F10G|[B38292-19](http://mocheck.nbtc.go.th/search/1507254)|
-|Redmi|Redmi 7A|M1903C3EG|[B38368-19](http://mocheck.nbtc.go.th/search/1508227)|
+|XIAOMI|Mi A3|M1906F9SH|[B38464-19](http://mocheck.nbtc.go.th/search/1509580)|
+|MI|Mi 9T Pro|M1903F11G|[B38478-19](http://mocheck.nbtc.go.th/search/1509663)|

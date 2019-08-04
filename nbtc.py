@@ -23,17 +23,17 @@ with open('data/nbtc.md', 'w') as o:
     for i in DATA:
         data = i.find("a")
         if data:
-            brand = data.findAll("div", {"class": "col-xs-12 col-md-2 text-left"})[0].text
+            brand = data.findAll("div", {"class": "col-xs-12 col-md-2 text-left"})[0].text.strip()
             product = ''
             try:
                 product = data.findAll("div", {"class": "col-xs-12 col-md-2 text-left"}
-                                       )[1].text.split("(")[1].split(")")[0]
+                                       )[1].text.split("(")[1].split(")")[0].strip()
             except IndexError:
                 pass
             model = data.findAll("div", {"class": "col-xs-12 col-md-2 text-left"}
-                                 )[1].text.split(" ")[0]
+                                 )[1].text.split(" ")[0].strip()
             certificate = data.find("div", {"class": "col-xs-12 col-md-2 text-center"}).text.strip()
-            link = data['href']
+            link = data['href'].strip()
             o.write("|{}|{}|{}|[{}]({})|".format(brand, product, model, certificate, link) + '\n')
 
 # diff
