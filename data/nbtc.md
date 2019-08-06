@@ -1,5 +1,6 @@
 | Brand | Product | Model | Certificate |
 |---|---|---|---|
+|XIAOMI|Mi A3|M1906F9SH|[B38464-19](http://mocheck.nbtc.go.th/search/1509580)|
 |Redmi|Redmi 7A|M1903C3EG|[B38368-19](http://mocheck.nbtc.go.th/search/1508227)|
 |MI|Mi 9T|M1903F10G|[B38292-19](http://mocheck.nbtc.go.th/search/1507254)|
 |MI|Mi Play|M1901F9E|[B38247-19](http://mocheck.nbtc.go.th/search/1506728)|
@@ -45,5 +46,4 @@
 |MI||2013121|[B38350-14](http://mocheck.nbtc.go.th/search/30542)|
 |MI||2013062-T|[B38307-14](http://mocheck.nbtc.go.th/search/30506)|
 |MI||2013029|[B38308-14](http://mocheck.nbtc.go.th/search/30518)|
-|XIAOMI|Mi A3|M1906F9SH|[B38464-19](http://mocheck.nbtc.go.th/search/1509580)|
 |MI|Mi 9T Pro|M1903F11G|[B38478-19](http://mocheck.nbtc.go.th/search/1509663)|
