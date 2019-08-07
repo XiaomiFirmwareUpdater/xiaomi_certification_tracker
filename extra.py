@@ -20,15 +20,12 @@ except KeyError:
 def compare(old, new):
     """compare two files line by line and write additions to new file"""
     with open(old, 'r') as old_, open(new, 'r') as new_:
-        old_data = old_.readlines()
-        new_data = new_.readlines()
-    diff = difflib.unified_diff(old_data, new_data, fromfile=old, tofile=new)
-    changes = []
-    for line in diff:
-        if line.startswith('+'):
-            changes.append(str(line))
-    out = ''.join(changes[1:]).replace("+", "")
-    with open(str(new).split(".")[0] + '_changes.md', 'w') as output:
+        diff = difflib.unified_diff(old_.readlines(), new_.readlines(), fromfile='old', tofile='new')
+    changes = [line.split('+')[1] for line in diff if line.startswith('+')]
+    deletes = [line.split('-')[1] for line in diff if line.startswith('-')]
+    adds = [line for line in changes[1:] if line not in deletes[1:]]
+    out = ''.join(adds)
+    with open(new.split(".")[0] + '_changes.md', 'w') as output:
         output.write(out)
 
 
