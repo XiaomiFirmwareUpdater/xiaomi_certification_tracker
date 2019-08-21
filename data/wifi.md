@@ -1,5 +1,8 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi Air Purifier 3H|AC-M10-SC|Other|2019-08-20|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91443)|
+|Mi Air Purifier 3|AC-M6-SC|Other|2019-08-20|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91444)|
+|Mi Air Purifier 3H|AC-M6-SC|Other|2019-08-20|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90776)|
 |Mi Wireless Photo Printer|ZPDYJ01HT|Computers & Accessories|2019-07-19|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79033)|
 |Mi A3|M1906F9SH|Routers|2019-07-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90835)|
 |Mi A3|M1906F9SH|Phones|2019-07-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90834)|
