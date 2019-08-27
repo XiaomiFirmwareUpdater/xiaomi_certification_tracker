@@ -27,6 +27,7 @@
 - [Mi MIX 3 5G](https:https://download.appmifile.com/78_updatepdf_in/14/05/2019/f4c1246c-4e7b-4560-b709-b5b9354bf47b.pdf)
 - [Mi 9T](https:https://download.appmifile.com/597_updatepdf_in/01/07/2019/c76fc217-2eb2-44d4-a3cc-e625f7b9cd80.pdf)
 - [Mi A3](https:https://download.appmifile.com/91_updatepdf_in/25/07/2019/5c2d150e-5bee-4103-9533-cc393df8bf7b.pdf)
+- [Mi 9T Pro](https:https://download.appmifile.com/331_updatepdf_in/27/08/2019/0fbb25b9-9df4-49c4-b899-a069bd6daa4c.pdf)
 - [MDY-09-EF](https:https://download.appmifile.com/561_updatepdf_in/08/04/2018/aeaa1004-7478-470b-8fc1-a0269f175c41.pdf)
 - [MDY-09-EU](https:https://download.appmifile.com/6_updatepdf_in/03/01/2019/bfdaae8a-0b43-41a3-b746-09237acb9816.pdf)
 - [MDY-10-EP](https:https://download.appmifile.com/315_updatepdf_in/18/03/2019/56926d08-3c8a-4468-a59b-7cf29cccec84.pdf)
