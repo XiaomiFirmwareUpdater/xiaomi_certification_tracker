@@ -48,3 +48,5 @@
 |MI||2013062-T|[B38307-14](http://mocheck.nbtc.go.th/search/30506)|
 |MI||2013029|[B38308-14](http://mocheck.nbtc.go.th/search/30518)|
 |Redmi|Redmi Note 8|M1908C3JG|[B38560-19](http://mocheck.nbtc.go.th/search/1510836)|
+|Redmi|Redmi 8|M1908C3IG|[B38605-19](http://mocheck.nbtc.go.th/search/1511598)|
+|Redmi|Redmi 8A|M1908C3KG|[B38604-19](http://mocheck.nbtc.go.th/search/1511613)|
