@@ -44,6 +44,7 @@
 - [M1803D5XC](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuAUCC2CA9dkLUO4hh3UNfRkNPn3AHRCtAvP0BNPvIDWEw%3d%3d)
 - [MI MIX](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuAUCC2CA9dkLS0HuXHfuhBFhHXhsb1ZQqsE12hoLvbyqQ%3d%3d)
 - [M1803D5XA](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuAUCC2CA9dkLS0HuXHfuhBFhHXhsb1ZQqsE12hoLvbyqQ%3d%3d)
+- [M1908C3KE](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=iOkwV7UWhfBT7wenlphQgX%2fuOoDN6ZAkdObISoizfOVDM1EhBqKYhw%3d%3d)
 - [M1906G7T](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=iOkwV7UWhfBT7wenlphQgWyZWbmnjGzHStYjvFLY0ZI4I%2f%2fg0TBt3A%3d%3d)
 - [M1906G7E](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=iOkwV7UWhfBT7wenlphQgS5ZBDydNxG4ixKv1ZcFYcpGswZ2nXfybg%3d%3d)
 - [M1908C3JE](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=iOkwV7UWhfBT7wenlphQgVEtos0m6IBS0bvIJKWU3Ao0DsFABWDs0A%3d%3d)
