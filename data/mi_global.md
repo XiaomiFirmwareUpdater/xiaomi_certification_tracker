@@ -28,6 +28,7 @@
 - [Mi 9T](https:https://download.appmifile.com/714_updatepdf_in/02/09/2019/2deb015a-0351-48db-a029-30a340843410.pdf)
 - [Mi A3](https:https://download.appmifile.com/151_updatepdf_in/02/09/2019/adc287b6-f747-42c9-bb41-5aa37dc35c07.pdf)
 - [Mi 9T Pro](https:https://download.appmifile.com/264_updatepdf_in/02/09/2019/1319b06f-6e40-4e4f-a3a9-60016b3a4fe7.pdf)
+- [Mi 9 Lite](https:)
 - [MDY-09-EF](https:https://download.appmifile.com/561_updatepdf_in/08/04/2018/aeaa1004-7478-470b-8fc1-a0269f175c41.pdf)
 - [MDY-09-EU](https:https://download.appmifile.com/6_updatepdf_in/03/01/2019/bfdaae8a-0b43-41a3-b746-09237acb9816.pdf)
 - [MDY-10-EP](https:https://download.appmifile.com/315_updatepdf_in/18/03/2019/56926d08-3c8a-4468-a59b-7cf29cccec84.pdf)
