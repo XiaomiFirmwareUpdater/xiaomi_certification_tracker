@@ -1,5 +1,6 @@
 | FCC ID | Date | Certification |
 |---|---|---|
+|2AFZZG7G|2019-09-26|[Here](https://gov.fccid.io/2AFZZG7G)|
 |2AFZZC3KH|2019-09-12|[Here](https://gov.fccid.io/2AFZZC3KH)|
 |2AFZZC3KG|2019-09-12|[Here](https://gov.fccid.io/2AFZZC3KG)|
 |2AFZZC3IH|2019-09-12|[Here](https://gov.fccid.io/2AFZZC3IH)|
