@@ -1,5 +1,7 @@
 | Brand | Product | Model | Certificate |
 |---|---|---|---|
+|Redmi|Redmi 8|M1908C3IG|[B38605-19](http://mocheck.nbtc.go.th/search/1511598)|
+|Redmi|Redmi 8A|M1908C3KG|[B38604-19](http://mocheck.nbtc.go.th/search/1511613)|
 |Redmi|Redmi Note 8|M1908C3JG|[B38560-19](http://mocheck.nbtc.go.th/search/1510836)|
 |BLACK SHARK|Black Shark 2 Pro|DLT-H0|[B38558-19](http://mocheck.nbtc.go.th/search/1510872)|
 |MI|Mi 9T Pro|M1903F11G|[B38478-19](http://mocheck.nbtc.go.th/search/1509663)|
@@ -50,6 +52,4 @@
 |MI||2013062-T|[B38307-14](http://mocheck.nbtc.go.th/search/30506)|
 |MI||2013029|[B38308-14](http://mocheck.nbtc.go.th/search/30518)|
 |Redmi|Redmi Note 8 Pro|M1906G7G|[B38658-19](http://mocheck.nbtc.go.th/search/1512759)|
-|Redmi|Redmi 8|M1908C3IG|[B38605-19](http://mocheck.nbtc.go.th/search/1511598)|
-|Redmi|Redmi 8A|M1908C3KG|[B38604-19](http://mocheck.nbtc.go.th/search/1511613)|
 |XIAOMI|Mi 9 Lite|M1904F3BG|[B38611-19](http://mocheck.nbtc.go.th/search/1511794)|
