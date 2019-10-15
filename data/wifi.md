@@ -1,5 +1,17 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Redmi Note8|M1908C3JH|Phones|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91584)|
+|Redmi Note8|M1908C3JH|Routers|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91585)|
+|Redmi 8|M1908C3IH|Phones|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91595)|
+|Redmi 8|M1908C3IH|Routers|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91596)|
+|Redmi 8A|M1908C3KG|Phones|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91597)|
+|Redmi 8A|M1908C3KG|Routers|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91598)|
+|Redmi 8A|M1908C3KH|Phones|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91599)|
+|Redmi 8A|M1908C3KH|Routers|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91600)|
+|Redmi 8|M1908C3IG|Routers|2019-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91352)|
+|Redmi 8|M1908C3IG|Phones|2019-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91350)|
+|Redmi Note8|M1908C3JG|Phones|2019-08-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91345)|
+|Redmi Note8|M1908C3JG|Routers|2019-08-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91347)|
 |Mi Air Purifier 3H|AC-M10-SC|Other|2019-08-20|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91443)|
 |Mi Air Purifier 3|AC-M6-SC|Other|2019-08-20|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91444)|
 |Mi Air Purifier 3H|AC-M6-SC|Other|2019-08-20|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90776)|
