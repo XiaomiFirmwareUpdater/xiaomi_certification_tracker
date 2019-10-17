@@ -27,6 +27,9 @@
 - Redmi K20 Pro
 - Redmi 7A
 - Redmi 8A
+- Redmi 8
+- Redmi Note 8 Pro
+- Redmi Note 8
 - Mi 5
 - Mi Max
 - Mi 4
