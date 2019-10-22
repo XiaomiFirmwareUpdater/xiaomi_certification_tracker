@@ -15,6 +15,8 @@
 |Mi Air Purifier 3H|AC-M10-SC|Other|2019-08-20|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91443)|
 |Mi Air Purifier 3|AC-M6-SC|Other|2019-08-20|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91444)|
 |Mi Air Purifier 3H|AC-M6-SC|Other|2019-08-20|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90776)|
+|Mi 9 Lite|M1904F3BG|Routers|2019-07-23|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91058)|
+|Mi 9 Lite|M1904F3BG|Phones|2019-07-23|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91057)|
 |Mi Wireless Photo Printer|ZPDYJ01HT|Computers & Accessories|2019-07-19|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79033)|
 |Mi A3|M1906F9SH|Routers|2019-07-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90835)|
 |Mi A3|M1906F9SH|Phones|2019-07-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90834)|
@@ -29,6 +31,8 @@
 |Mi Wireless Inkjet Printer|PMDYJ01HT|Computers & Accessories|2019-06-06|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79154)|
 |Mi Smart Home Hub|ZNDMWG03LM|Smart Home|2019-05-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89771)|
 |Laptop Computer|171502|Computers & Accessories|2019-05-08|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78420)|
+|MI 9T|M1903F10G|Phones|2019-04-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83068)|
+|MI 9T|M1903F10G|Routers|2019-04-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83071)|
 |LED TV|L43M5-5ARU|Televisions & Set Top Boxes|2019-04-22|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83439)|
 |MI 9 SE|M1903F2G|Phones|2019-03-25|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82553)|
 |MI MIX3 5G|M1810E5GG|Phones|2019-03-25|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82943)|
