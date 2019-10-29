@@ -53,6 +53,7 @@
 |Xiaomi Note 3|MCE8|✗|✓|✗|✗|✓|
 |Redmi 5A|MCG3B|✗|✓|✗|✗|✓|
 |Redmi 4X|MAG138|✓|✗|✗|✗|✓|
+||M1910F4E|✗|✗|✓|✗|✗|
 ||M1908F1XE|✗|✗|✓|✗|✗|
 |Redmi 8A|M1908C3KE|✗|✗|✓|✗|✗|
 |Redmi Note8|M1908C3JE|✗|✗|✓|✗|✗|
@@ -75,7 +76,6 @@
 |MI 9|M1902F1C|✗|✗|✓|✗|✗|
 |MI 9|M1902F1A|✗|✗|✓|✗|✗|
 |MI Play|M1901F9T|✗|✗|✓|✗|✗|
-|Redmi Note 7|M1901F7T|✗|✗|✓|✗|✗|
 |Redmi Note 7|M1901F7E|✗|✗|✓|✗|✗|
 |Redmi Note 7|M1901F7BE|✗|✗|✓|✗|✗|
 |Redmi 7|M1810F6LT|✗|✗|✓|✗|✗|
