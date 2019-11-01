@@ -1,5 +1,10 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|MI TV|L43M5-5ASP|Televisions & Set Top Boxes|2019-10-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92214)|
+|MI TV|L55M5-5ASP|Televisions & Set Top Boxes|2019-10-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92215)|
+|MI TV|L32M5-5ARU|Televisions & Set Top Boxes|2019-10-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92216)|
+|MI TV|L43M5-5ARU|Televisions & Set Top Boxes|2019-10-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92217)|
+|MI TV|L55M5-5ARU|Televisions & Set Top Boxes|2019-10-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92218)|
 |Redmi Note8|M1908C3JH|Phones|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91584)|
 |Redmi Note8|M1908C3JH|Routers|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91585)|
 |Redmi 8|M1908C3IH|Phones|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91595)|
