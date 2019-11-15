@@ -5,6 +5,12 @@
 |MI TV|L32M5-5ARU|Televisions & Set Top Boxes|2019-10-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92216)|
 |MI TV|L43M5-5ARU|Televisions & Set Top Boxes|2019-10-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92217)|
 |MI TV|L55M5-5ARU|Televisions & Set Top Boxes|2019-10-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92218)|
+|Mi Note 10 Pro|M1910F4S|Phones|2019-10-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92149)|
+|Mi Note 10 Pro|M1910F4S|Routers|2019-10-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92148)|
+|Mi Note 10|M1910F4G|Routers|2019-10-15|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91612)|
+|Mi Note 10|M1910F4G|Phones|2019-10-15|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91613)|
+|Redmi Note 8T|M1908C3XG|Routers|2019-10-10|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91941)|
+|Redmi Note 8T|M1908C3XG|Phones|2019-10-10|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91940)|
 |Redmi Note8|M1908C3JH|Phones|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91584)|
 |Redmi Note8|M1908C3JH|Routers|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91585)|
 |Redmi 8|M1908C3IH|Phones|2019-09-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91595)|
