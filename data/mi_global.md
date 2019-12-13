@@ -30,6 +30,7 @@
 - [Mi 9T Pro](https:https://download.appmifile.com/509_updatepdf_in/23/10/2019/fefe2b86-ff8c-400a-a7bb-6efe31699bd5.pdf)
 - [Mi 9 Lite](https:https://download.appmifile.com/833_updatepdf_in/23/10/2019/efe3bdb8-7ddf-4b99-a4f2-ef8ecf9a3ead.pdf)
 - [Mi Note 10](https:https://download.appmifile.com/511_updatepdf_in/07/11/2019/f9ad9100-b9e2-404d-970f-413f66d56a49.pdf)
+- [Mi Note 10 Pro](https:https://download.appmifile.com/883_updatepdf_in/13/12/2019/c3578d1a-61db-4bd8-9433-73445f690574.pdf)
 - [MDY-09-EF](https:https://download.appmifile.com/561_updatepdf_in/08/04/2018/aeaa1004-7478-470b-8fc1-a0269f175c41.pdf)
 - [MDY-09-EU](https:https://download.appmifile.com/6_updatepdf_in/03/01/2019/bfdaae8a-0b43-41a3-b746-09237acb9816.pdf)
 - [MDY-10-EP](https:https://download.appmifile.com/315_updatepdf_in/18/03/2019/56926d08-3c8a-4468-a59b-7cf29cccec84.pdf)
@@ -61,3 +62,4 @@
 - [Redmi Note 8](https:https://download.appmifile.com/903_updatepdf_in/02/09/2019/8fa09b8b-963e-434e-a97f-ece02abfb444.pdf)
 - [Redmi Note 8 Pro](https:https://download.appmifile.com/485_updatepdf_in/17/09/2019/7b17a913-c05a-4064-9d3c-d8656234fd0b.pdf)
 - [Redmi 8](https:https://download.appmifile.com/367_updatepdf_in/07/11/2019/a52e993b-4677-4c5f-b55c-9d68dfef7c45.pdf)
+- [Redmi 8A](https:https://download.appmifile.com/89_updatepdf_in/13/12/2019/0ffd463d-2ee5-4aec-91ec-e1c1c133783f.pdf)
