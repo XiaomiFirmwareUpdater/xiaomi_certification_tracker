@@ -29,6 +29,7 @@
 - Redmi 8
 - Redmi Note 8 Pro
 - Redmi Note 8
+- Redmi 8A
 - Mi 5
 - Mi Max
 - Mi 4
