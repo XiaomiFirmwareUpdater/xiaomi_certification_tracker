@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi Router AC1200/Gigabit Dual Band Router|IR1200G|Routers|2020-01-07|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94325)|
 |Laptop Computer|TM1802|Other|2019-12-19|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78468)|
 |MI TV|L43M5-5ASP|Televisions & Set Top Boxes|2019-10-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92214)|
 |MI TV|L55M5-5ASP|Televisions & Set Top Boxes|2019-10-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92215)|
