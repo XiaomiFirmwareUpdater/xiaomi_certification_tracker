@@ -63,3 +63,4 @@
 - [Redmi Note 8 Pro](https:https://download.appmifile.com/485_updatepdf_in/17/09/2019/7b17a913-c05a-4064-9d3c-d8656234fd0b.pdf)
 - [Redmi 8](https:https://download.appmifile.com/367_updatepdf_in/07/11/2019/a52e993b-4677-4c5f-b55c-9d68dfef7c45.pdf)
 - [Redmi 8A](https:https://download.appmifile.com/89_updatepdf_in/13/12/2019/0ffd463d-2ee5-4aec-91ec-e1c1c133783f.pdf)
+- [Redmi Note 8T](https:https://download.appmifile.com/640_updatepdf_in/06/02/2020/26eb1fae-7999-47f1-a2ae-a97967c95672.pdf)
