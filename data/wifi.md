@@ -1,5 +1,15 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi 10|M2001J2E|Phones|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95573)|
+|Mi 10|M2001J2E|Routers|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95574)|
+|Mi 10|M2001J2C|Phones|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95575)|
+|Mi 10|M2001J2C|Routers|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95576)|
+|Mi 10|M2001J2I|Phones|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95577)|
+|Mi 10|M2001J2I|Routers|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95578)|
+|Mi 10 Pro|M2001J1E|Phones|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95579)|
+|Mi 10 Pro|M2001J1E|Routers|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95580)|
+|Mi 10 Pro|M2001J1C|Phones|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95581)|
+|Mi 10 Pro|M2001J1C|Routers|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95582)|
 |Mi Router AC1200/Gigabit Dual Band Router|IR1200G|Routers|2020-01-07|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94325)|
 |Mi 10|M2001J2G|Routers|2020-01-02|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94245)|
 |Laptop Computer|TM1802|Other|2019-12-19|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78468)|
