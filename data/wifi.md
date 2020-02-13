@@ -1,5 +1,7 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi 10 Pro|M2001J1G|Phones|2020-02-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95584)|
+|Mi 10 Pro|M2001J1G|Routers|2020-02-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95585)|
 |Mi 10|M2001J2E|Phones|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95573)|
 |Mi 10|M2001J2E|Routers|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95574)|
 |Mi 10|M2001J2C|Phones|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95575)|
@@ -148,5 +150,3 @@
 |Xiaomi Note 3|MCE8|Routers|2017-12-05|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA74714)|
 |Redmi 5A|MCG3B|Phones|2017-11-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA74343)|
 |Redmi 5A|MCG3B|Routers|2017-11-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA74336)|
-|Redmi 4X|MAG138|Phones|2017-09-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA73387)|
-|Redmi 4X|MAG138|Routers|2017-09-07|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA73388)|
