@@ -1,5 +1,11 @@
 | Name | Model | [FCCID](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/fccid.md) | [Thailand NBTC](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/nbtc.md) | [Chinese TENAA](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tenaa_mobile.md) | [Indonesian TKDN](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tkdn.md) | [Wi-Fi Alliance](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/wifi.md)  |
 |---|---|---|---|---|---|---|
+|Mi 10 Pro|M2001J1G|✗|✗|✗|✗|✓|
+|Mi 10|M2001J2E|✗|✗|✓|✗|✓|
+|Mi 10|M2001J2C|✗|✗|✓|✗|✓|
+|Mi 10|M2001J2I|✗|✗|✗|✗|✓|
+|Mi 10 Pro|M2001J1E|✗|✗|✓|✗|✓|
+|Mi 10 Pro|M2001J1C|✗|✗|✓|✗|✓|
 |Mi 10|M2001J2G|✗|✗|✗|✗|✓|
 |Mi Note 10 Pro|M1910F4S|✗|✓|✗|✗|✓|
 |Mi Note 10 Pro|M1910F4G|✓|✓|✗|✗|✓|
@@ -56,11 +62,6 @@
 |Mi MIX 2|MDE5|✗|✓|✗|✗|✓|
 |Xiaomi Note 3|MCE8|✗|✓|✗|✗|✓|
 |Redmi 5A|MCG3B|✗|✓|✗|✗|✓|
-|Redmi 4X|MAG138|✓|✗|✗|✗|✓|
-|Mi 10|M2001J2E|✗|✗|✓|✗|✗|
-|Mi 10|M2001J2C|✗|✗|✓|✗|✗|
-||M2001J1E|✗|✗|✓|✗|✗|
-||M2001J1C|✗|✗|✓|✗|✗|
 ||M2001G7AE|✗|✗|✓|✗|✗|
 ||M2001G7AC|✗|✗|✓|✗|✗|
 ||M1912G7BE|✗|✗|✓|✗|✗|
