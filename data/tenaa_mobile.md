@@ -1,5 +1,9 @@
 # Xiaomi devices listed in TENAA Mobile website
 
+- [M2001J1C](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuC10bqWG3bIyXfDZLp6FCfTdnqGP27QQFZnuPe3RPDLPw%3d%3d)
+- [M2001J1E](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuC10bqWG3bIyZ0LMHvfev7lAMDBWo2wbsPwG2W7n5clkA%3d%3d)
+- [M2001J2C](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuC10bqWG3bIyfdZ56sPEHlnPpeiGJxi%2b40WcmLiFRZbYQ%3d%3d)
+- [M2001J2E](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuC10bqWG3bIyfBEQ4im6ynA6ZSk4jXht8PJ%2b%2buGfH32gw%3d%3d)
 - [MI MIX](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuAUCC2CA9dkLUFAOaQ%2f%2f3DAkQO272xfRHPzCZ%2bIzR8GQw%3d%3d)
 - [M1810E5GG](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuAUCC2CA9dkLUFAOaQ%2f%2f3DAkQO272xfRHPzCZ%2bIzR8GQw%3d%3d)
 - [M1910F4E](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuDchnCJ%2b87iZUTLu8Dtjw0JMoWD9aUhYsyLm1G2Cb1eIg%3d%3d)
@@ -39,10 +43,6 @@
 - [M1803E1A](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuCQbxt1GYrmKDNvxUZ7crqUB8gLJyI4lWWsisCMEOIGww%3d%3d)
 - [M1803E6T](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuCQbxt1GYrmKAGeiWORIqFCZ5HAx5CSL3G%2fIw%2fWV5%2b0Jw%3d%3d)
 - [M1803E6C](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuCQbxt1GYrmKEg%2bxPxJbbnodVwI3YYKdx7zu2RnNZ1eSw%3d%3d)
-- [M1803E6E](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuCQbxt1GYrmKOhoHgUuAvwUY16%2btEio8cAvQ1SalGp%2f6Q%3d%3d)
-- [M1804D2ST](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuCQbxt1GYrmKBEASdbpJwBhWqJg5rQdxNPd0o%2bvNsi91w%3d%3d)
-- [M1804D2SC](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuCQbxt1GYrmKN0lX2UilZr64K1aFOzCjJcFrraxAkIZmA%3d%3d)
-- [M1804D2SE](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=zDErPbEoeuCQbxt1GYrmKI0fWgH4RlaCpiBX2PywQ6sC78LcWU6c3A%3d%3d)
 - [M2001G7AC](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=iOkwV7UWhfBw10kysXxeP0VtOVAH3Sc5IAuRW7dt1ZSfzR3LrS03Mw%3d%3d)
 - [M2001G7AE](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=iOkwV7UWhfBw10kysXxePznPACnkz7zyRlWJkWu2qvgbAElzOCaViw%3d%3d)
 - [M1912G7BC](http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=iOkwV7UWhfAvtdaMUfOtwQGBvDp9G5F8dHhFNX1SUM2gtSeNzHuoGQ%3d%3d)
