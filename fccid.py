@@ -15,6 +15,9 @@ if path.exists('data/fccid.md'):
 DATA = BeautifulSoup(get('https://fccid.io/2AFZZ').content,
                      'html.parser').findAll("table", {"class": "table"})[1]
 DATA = list(dict.fromkeys(DATA))[2:-1]
+if not DATA:
+    rename('data/fccid_old.md', 'data/fccid.md')
+    exit(0)
 with open('data/fccid.md', 'w') as o:
     o.write("| FCC ID | Date | Certification |" + '\n')
     o.write("|---|---|---|" + '\n')
