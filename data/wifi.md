@@ -1,5 +1,7 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|MI TV|L50M5-5ARU|Televisions & Set Top Boxes|2020-03-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97085)|
+|MI TV|L65M5-5ASP|Televisions & Set Top Boxes|2020-03-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97087)|
 |Mi 10 Pro|M2001J1G|Phones|2020-02-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95584)|
 |Mi 10 Pro|M2001J1G|Routers|2020-02-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95585)|
 |Mi 10|M2001J2E|Phones|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95573)|
@@ -148,5 +150,3 @@
 |Mi MIX 2|MDE5|Phones|2017-12-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA74815)|
 |Xiaomi Note 3|MCE8|Phones|2017-12-08|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA74713)|
 |Xiaomi Note 3|MCE8|Routers|2017-12-05|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA74714)|
-|Redmi 5A|MCG3B|Phones|2017-11-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA74343)|
-|Redmi 5A|MCG3B|Routers|2017-11-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA74336)|
