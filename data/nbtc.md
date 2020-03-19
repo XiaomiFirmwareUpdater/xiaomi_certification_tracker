@@ -55,4 +55,5 @@
 |MI||2013029|[B38308-14](http://mocheck.nbtc.go.th/search/30518)|
 |XIAOMI|Mi Note 10 Pro|M1910F4S|[B38710-19](http://mocheck.nbtc.go.th/search/1513647)|
 |MI|Mi 10|M2001J2G|[B38143-20](http://mocheck.nbtc.go.th/search/1518306)|
+|Redmi|Redmi Note 9S|M2003J6A1G|[B38153-20](http://mocheck.nbtc.go.th/search/1518447)|
 |XIAOMI|Mi 9 Lite|M1904F3BG|[B38611-19](http://mocheck.nbtc.go.th/search/1511794)|
