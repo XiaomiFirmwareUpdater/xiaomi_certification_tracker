@@ -1,9 +1,13 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Redmi Note 9S|M2003J6A1R|Phones|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97166)|
+|Redmi Note 9S|M2003J6A1R|Routers|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97167)|
 |Redmi Note 9 Pro|M2003J6A1I|Phones|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97168)|
 |Redmi Note 9 Pro|M2003J6A1I|Routers|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97169)|
 |Redmi Note 9 Pro Max|M2003J6B1I|Phones|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97170)|
 |Redmi Note 9 Pro Max|M2003J6B1I|Routers|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97171)|
+|Redmi Note 9S|M2003J6A1G|Routers|2020-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96977)|
+|Redmi Note 9S|M2003J6A1G|Phones|2020-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96976)|
 |MI TV|L50M5-5ARU|Televisions & Set Top Boxes|2020-03-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97085)|
 |MI TV|L65M5-5ASP|Televisions & Set Top Boxes|2020-03-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97087)|
 |Mi 10 Pro|M2001J1G|Phones|2020-02-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95584)|
@@ -146,7 +150,3 @@
 |Mi A1|MDG2|Routers|2018-02-02|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76312)|
 |Mi A1|MDG2|Phones|2018-02-02|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76313)|
 |Redmi Note 5A Prime|MDG6S|Phones|2018-01-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76142)|
-|Redmi Note 5A Prime|MDG6S|Routers|2018-01-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76143)|
-|Redmi 5 PLUS|MEG7|Phones|2018-01-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA75886)|
-|Redmi Note 5A|MDG6|Routers|2018-01-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA75564)|
-|Redmi Note 5A|MDG6|Phones|2018-01-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA75563)|
