@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi Smart Space Heater S|KRDNQ03ZM|Smart Home|2020-03-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96855)|
 |Redmi Note 9S|M2003J6A1R|Phones|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97166)|
 |Redmi Note 9S|M2003J6A1R|Routers|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97167)|
 |Redmi Note 9 Pro|M2003J6A1I|Phones|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97168)|
@@ -149,4 +150,3 @@
 |Redmi 5 PLUS|MEG7|Routers|2018-02-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76487)|
 |Mi A1|MDG2|Routers|2018-02-02|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76312)|
 |Mi A1|MDG2|Phones|2018-02-02|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76313)|
-|Redmi Note 5A Prime|MDG6S|Phones|2018-01-31|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76142)|
