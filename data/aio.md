@@ -61,7 +61,6 @@
 |Redmi 5|MDG1|✓|✓|✗|✗|✓|
 |Redmi 5 PLUS|MEG7|✓|✓|✗|✗|✓|
 |Redmi 5|MDG2|✗|✓|✗|✗|✓|
-|Redmi Note 5A Prime|MDG6S|✓|✓|✗|✗|✓|
 ||M2001J11E|✗|✗|✓|✗|✗|
 ||M2001J11C|✗|✗|✓|✗|✗|
 ||M2001G7AE|✗|✗|✓|✗|✗|
