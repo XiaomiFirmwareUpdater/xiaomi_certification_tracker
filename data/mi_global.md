@@ -64,3 +64,4 @@
 - [Redmi 8](https:https://download.appmifile.com/367_updatepdf_in/07/11/2019/a52e993b-4677-4c5f-b55c-9d68dfef7c45.pdf)
 - [Redmi 8A](https:https://download.appmifile.com/89_updatepdf_in/13/12/2019/0ffd463d-2ee5-4aec-91ec-e1c1c133783f.pdf)
 - [Redmi Note 8T](https:https://download.appmifile.com/208_updatepdf_in/04/03/2020/7ffb9bd6-fe33-4930-bf18-8edf36c14f7d.pdf)
+- [Redmi 8A Dual](https:https://i02.appmifile.com/166_updatepdf_in/28/03/2020/957477e671a5a6dea65947e381cf7391.pdf)
