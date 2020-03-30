@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|MI TV|L65M5-OD|Televisions & Set Top Boxes|2020-03-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97075)|
 |Mi Smart Space Heater S|KRDNQ03ZM|Smart Home|2020-03-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96855)|
 |Redmi Note 9S|M2003J6A1R|Phones|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97166)|
 |Redmi Note 9S|M2003J6A1R|Routers|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97167)|
@@ -149,4 +150,3 @@
 |Redmi 5|MDG1|Routers|2018-02-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA75712)|
 |Redmi 5 PLUS|MEG7|Routers|2018-02-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76487)|
 |Mi A1|MDG2|Routers|2018-02-02|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76312)|
-|Mi A1|MDG2|Phones|2018-02-02|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76313)|
