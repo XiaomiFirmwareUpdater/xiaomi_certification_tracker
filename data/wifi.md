@@ -1,17 +1,26 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi Smart Space Heater S|KRDNQ05ZM|Smart Home|2020-03-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97428)|
 |MI TV|L65M5-OD|Televisions & Set Top Boxes|2020-03-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97075)|
 |Mi Smart Space Heater S|KRDNQ03ZM|Smart Home|2020-03-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96855)|
+|Mi 10 Lite 5G|M2002J9S|Phones|2020-03-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97316)|
+|Mi 10 Lite 5G|M2002J9E|Phones|2020-03-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97317)|
+|Mi 10 Lite 5G|M2002J9S|Routers|2020-03-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97319)|
+|Mi 10 Lite 5G|M2002J9E|Routers|2020-03-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97318)|
 |Redmi Note 9S|M2003J6A1R|Phones|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97166)|
 |Redmi Note 9S|M2003J6A1R|Routers|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97167)|
 |Redmi Note 9 Pro|M2003J6A1I|Phones|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97168)|
 |Redmi Note 9 Pro|M2003J6A1I|Routers|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97169)|
 |Redmi Note 9 Pro Max|M2003J6B1I|Phones|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97170)|
 |Redmi Note 9 Pro Max|M2003J6B1I|Routers|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97171)|
+|Mi 10 Lite 5G|M2002J9G|Routers|2020-03-16|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96495)|
+|Mi 10 Lite 5G|M2002J9G|Phones|2020-03-16|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96496)|
 |Redmi Note 9S|M2003J6A1G|Routers|2020-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96977)|
 |Redmi Note 9S|M2003J6A1G|Phones|2020-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96976)|
 |MI TV|L50M5-5ARU|Televisions & Set Top Boxes|2020-03-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97085)|
 |MI TV|L65M5-5ASP|Televisions & Set Top Boxes|2020-03-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97087)|
+|Redmi 8A Pro/Redmi 8A Dual|M2001C3K3I|Phones|2020-02-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96553)|
+|Redmi 8A Pro/Redmi 8A Dual|M2001C3K3I|Routers|2020-02-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96554)|
 |Mi 10 Pro|M2001J1G|Phones|2020-02-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95584)|
 |Mi 10 Pro|M2001J1G|Routers|2020-02-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95585)|
 |Mi 10|M2001J2E|Phones|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95573)|
@@ -141,12 +150,3 @@
 |Redmi Note 5|M1803E7SG|Routers|2018-05-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77898)|
 |Redmi S2|M1803E6G|Routers|2018-05-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77861)|
 |Mi Ultra-Short Range Laser Projector|MJJGYY02FM|Computers & Accessories|2018-05-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77759)|
-|Mi Control Hub|DGNWG04LM|Smart Home|2018-04-19|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77320)|
-|Mi Control Hub|DGNWG03LM|Smart Home|2018-04-19|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77319)|
-|Mi Control Hub|DGNWG05LM|Smart Home|2018-04-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77211)|
-|Marble-R|161301-XX (AA-ZZ)|Computers & Accessories|2018-03-23|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76907)|
-|Redmi 5|MDG1|Phones|2018-03-08|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA75711)|
-|Mi Home Security Camera|SXJ01ZM|Smart Home|2018-03-01|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76632)|
-|Redmi 5|MDG1|Routers|2018-02-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA75712)|
-|Redmi 5 PLUS|MEG7|Routers|2018-02-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76487)|
-|Mi A1|MDG2|Routers|2018-02-02|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA76312)|
