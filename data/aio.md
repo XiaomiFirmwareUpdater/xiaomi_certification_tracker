@@ -1,9 +1,13 @@
 | Name | Model | [FCCID](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/fccid.md) | [Thailand NBTC](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/nbtc.md) | [Chinese TENAA](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tenaa_mobile.md) | [Indonesian TKDN](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tkdn.md) | [Wi-Fi Alliance](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/wifi.md)  |
 |---|---|---|---|---|---|---|
+|Mi 10 Lite 5G|M2002J9S|✗|✗|✗|✗|✓|
+|Mi 10 Lite 5G|M2002J9E|✗|✗|✗|✗|✓|
 |Redmi Note 9S|M2003J6A1R|✗|✗|✗|✗|✓|
 |Redmi Note 9S|M2003J6A1I|✗|✗|✗|✗|✓|
 |Redmi Note 9 Pro Max|M2003J6B1I|✗|✗|✗|✗|✓|
+|Mi 10 Lite 5G|M2002J9G|✗|✗|✗|✗|✓|
 |Redmi Note 9S|M2003J6A1G|✓|✓|✗|✗|✓|
+|Redmi 8A Pro/Redmi 8A Dual|M2001C3K3I|✗|✗|✗|✗|✓|
 |Mi 10 Pro|M2001J1G|✗|✗|✗|✗|✓|
 |Mi 10|M2001J2E|✗|✗|✓|✗|✓|
 |Mi 10|M2001J2C|✗|✗|✓|✗|✓|
@@ -58,9 +62,6 @@
 |Redmi Note 5|M1803E7SG|✓|✓|✗|✗|✓|
 |Redmi S2|M1803E6G|✓|✓|✗|✗|✓|
 |Mi Ultra-Short Range Laser Projector|MJJGYY02FM|✗|✗|✗|✗|✓|
-|Redmi 5|MDG1|✓|✓|✗|✗|✓|
-|Redmi 5 PLUS|MEG7|✓|✓|✗|✗|✓|
-|Redmi 5|MDG2|✗|✓|✗|✗|✓|
 ||M2001J11E|✗|✗|✓|✗|✗|
 ||M2001J11C|✗|✗|✓|✗|✗|
 ||M2001G7AE|✗|✗|✓|✗|✗|
