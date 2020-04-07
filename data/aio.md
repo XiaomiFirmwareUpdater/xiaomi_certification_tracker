@@ -61,7 +61,6 @@
 |MI A2|M1804D2SG|✓|✓|✗|✗|✓|
 |Redmi Note 5|M1803E7SG|✓|✓|✗|✗|✓|
 |Redmi S2|M1803E6G|✓|✓|✗|✗|✓|
-|Mi Ultra-Short Range Laser Projector|MJJGYY02FM|✗|✗|✗|✗|✓|
 ||M2001J11E|✗|✗|✓|✗|✗|
 ||M2001J11C|✗|✗|✓|✗|✗|
 ||M2001G7AE|✗|✗|✓|✗|✗|
