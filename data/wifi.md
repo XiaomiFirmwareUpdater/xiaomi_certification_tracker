@@ -33,6 +33,7 @@
 |Mi 10 Pro|M2001J1E|Routers|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95580)|
 |Mi 10 Pro|M2001J1C|Phones|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95581)|
 |Mi 10 Pro|M2001J1C|Routers|2020-02-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95582)|
+|Mi 10|M2001J2G|Phones|2020-01-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94244)|
 |Mi Router AC1200/Gigabit Dual Band Router|IR1200G|Routers|2020-01-07|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94325)|
 |Mi 10|M2001J2G|Routers|2020-01-02|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94245)|
 |Laptop Computer|TM1802|Other|2019-12-19|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78468)|
@@ -149,4 +150,3 @@
 |Redmi S2|M1803E6G|Phones|2018-05-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77860)|
 |Redmi Note 5|M1803E7SG|Routers|2018-05-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77898)|
 |Redmi S2|M1803E6G|Routers|2018-05-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77861)|
-|Mi Ultra-Short Range Laser Projector|MJJGYY02FM|Computers & Accessories|2018-05-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77759)|
