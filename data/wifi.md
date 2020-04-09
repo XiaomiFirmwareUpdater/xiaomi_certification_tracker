@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi 4K Laser Projector 150|XMJGTYDS01FM|Computers & Accessories|2020-04-09|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97492)|
 |Mi Smart Space Heater S|KRDNQ05ZM|Smart Home|2020-03-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97428)|
 |MI TV|L65M5-OD|Televisions & Set Top Boxes|2020-03-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97075)|
 |Mi Smart Space Heater S|KRDNQ03ZM|Smart Home|2020-03-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96855)|
@@ -149,4 +150,3 @@
 |Redmi Note 5|M1803E7SG|Phones|2018-06-04|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77899)|
 |Redmi S2|M1803E6G|Phones|2018-05-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77860)|
 |Redmi Note 5|M1803E7SG|Routers|2018-05-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77898)|
-|Redmi S2|M1803E6G|Routers|2018-05-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77861)|
