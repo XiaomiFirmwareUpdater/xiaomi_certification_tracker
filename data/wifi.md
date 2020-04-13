@@ -20,6 +20,7 @@
 |Redmi Note 9S|M2003J6A1G|Phones|2020-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96976)|
 |MI TV|L50M5-5ARU|Televisions & Set Top Boxes|2020-03-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97085)|
 |MI TV|L65M5-5ASP|Televisions & Set Top Boxes|2020-03-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97087)|
+|Mi All-in-One Inkjet Printer|MJPMYTJHT01|Computers & Accessories|2020-02-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA93136)|
 |Mi Smart Standing Fan 1X|BPLDS01XY|Smart Home|2020-02-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96544)|
 |Redmi 8A Pro/Redmi 8A Dual|M2001C3K3I|Phones|2020-02-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96553)|
 |Redmi 8A Pro/Redmi 8A Dual|M2001C3K3I|Routers|2020-02-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96554)|
@@ -149,4 +150,3 @@
 |Mi Air Purifier 2|AC-M2-AA|Smart Home|2018-07-05|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78423)|
 |Mi Air Purifier 2S|AC-M4-AA|Smart Home|2018-07-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78297)|
 |Redmi Note 5|M1803E7SG|Phones|2018-06-04|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77899)|
-|Redmi S2|M1803E6G|Phones|2018-05-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77860)|
