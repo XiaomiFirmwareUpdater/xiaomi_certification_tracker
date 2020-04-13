@@ -7,6 +7,7 @@
 |Redmi Note 9 Pro Max|M2003J6B1I|✗|✗|✗|✗|✓|
 |Mi 10 Lite 5G|M2002J9G|✗|✗|✗|✗|✓|
 |Redmi Note 9S|M2003J6A1G|✓|✓|✗|✗|✓|
+|Mi All-in-One Inkjet Printer|MJPMYTJHT01|✗|✗|✗|✗|✓|
 |Redmi 8A Pro/Redmi 8A Dual|M2001C3K3I|✗|✗|✗|✗|✓|
 |Mi 10 Pro|M2001J1G|✗|✗|✗|✗|✓|
 |Mi 10|M2001J2E|✗|✗|✓|✗|✓|
@@ -60,7 +61,6 @@
 |Redmi 6|M1804C3DG|✓|✓|✗|✗|✓|
 |MI A2|M1804D2SG|✓|✓|✗|✗|✓|
 |Redmi Note 5|M1803E7SG|✓|✓|✗|✗|✓|
-|Redmi S2|M1803E6G|✓|✓|✗|✗|✓|
 ||M2001J11E|✗|✗|✓|✗|✗|
 ||M2001J11C|✗|✗|✓|✗|✗|
 ||M2001G7AE|✗|✗|✓|✗|✗|
