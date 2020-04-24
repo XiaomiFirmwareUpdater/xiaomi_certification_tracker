@@ -1,7 +1,8 @@
 | Name | Model | [FCCID](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/fccid.md) | [Thailand NBTC](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/nbtc.md) | [Chinese TENAA](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tenaa_mobile.md) | [Indonesian TKDN](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tkdn.md) | [Wi-Fi Alliance](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/wifi.md)  |
 |---|---|---|---|---|---|---|
+|Mi Home Security Camera 1080p (Magnetic Mount)|MJSXJ02HL|✗|✗|✗|✗|✓|
 |Mi 10 Lite 5G|M2002J9S|✗|✗|✗|✗|✓|
-|Mi 10 Lite 5G|M2002J9E|✗|✗|✗|✗|✓|
+|Mi 10 Lite 5G|M2002J9E|✗|✗|✓|✗|✓|
 |Redmi Note 9S|M2003J6A1R|✗|✗|✗|✗|✓|
 |Redmi Note 9S|M2003J6A1I|✗|✗|✗|✗|✓|
 |Redmi Note 9 Pro Max|M2003J6B1I|✗|✗|✗|✗|✓|
@@ -60,7 +61,6 @@
 |MI MAX3|M1804E4A|✗|✓|✗|✗|✓|
 |Redmi 6|M1804C3DG|✓|✓|✗|✗|✓|
 |MI A2|M1804D2SG|✓|✓|✗|✗|✓|
-|Redmi Note 5|M1803E7SG|✓|✓|✗|✗|✓|
 ||M2003J15SC|✗|✗|✓|✗|✗|
 ||M2001J11E|✗|✗|✓|✗|✗|
 ||M2001J11C|✗|✗|✓|✗|✗|
