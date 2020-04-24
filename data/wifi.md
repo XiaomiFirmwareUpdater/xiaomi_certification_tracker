@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi Home Security Camera 1080p (Magnetic Mount)|MJSXJ02HL|Computers & Accessories|2020-04-23|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97737)|
 |Mi 4K Laser Projector 150|XMJGTYDS01FM|Computers & Accessories|2020-04-09|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97492)|
 |Mi Smart Space Heater S|KRDNQ05ZM|Smart Home|2020-03-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97428)|
 |MI TV|L65M5-OD|Televisions & Set Top Boxes|2020-03-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97075)|
@@ -149,4 +150,3 @@
 |Mi Air Purifier Pro|AC-M3-CA|Smart Home|2018-07-05|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78422)|
 |Mi Air Purifier 2|AC-M2-AA|Smart Home|2018-07-05|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78423)|
 |Mi Air Purifier 2S|AC-M4-AA|Smart Home|2018-07-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78297)|
-|Redmi Note 5|M1803E7SG|Phones|2018-06-04|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA77899)|
