@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Automatic battery-operated cleaner for household|STYTJ01ZHM|Smart Home|2020-04-27|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97736)|
 |Mi Home Security Camera 1080p (Magnetic Mount)|MJSXJ02HL|Computers & Accessories|2020-04-23|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97737)|
 |Mi 4K Laser Projector 150|XMJGTYDS01FM|Computers & Accessories|2020-04-09|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97492)|
 |Mi Smart Space Heater S|KRDNQ05ZM|Smart Home|2020-03-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97428)|
@@ -149,4 +150,3 @@
 |MI A2|M1804D2SG|Phones|2018-07-16|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78440)|
 |Mi Air Purifier Pro|AC-M3-CA|Smart Home|2018-07-05|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78422)|
 |Mi Air Purifier 2|AC-M2-AA|Smart Home|2018-07-05|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78423)|
-|Mi Air Purifier 2S|AC-M4-AA|Smart Home|2018-07-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78297)|
