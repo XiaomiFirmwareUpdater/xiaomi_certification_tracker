@@ -33,6 +33,7 @@
 - Redmi 8A Dual
 - Redmi Note 9 Pro
 - Redmi Note 9 Pro Max
+- Redmi Note 9
 - Mi 5
 - Mi Max
 - Mi 4
@@ -41,6 +42,5 @@
 - Mi A1
 - Mi Mix 2
 - Mi A2
-- POCO F1
 - Mi A3
-- POCO X2
+- Mi 10
