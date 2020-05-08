@@ -71,3 +71,4 @@
 - [Redmi Note 9S](https:https://i02.appmifile.com/760_updatepdf_in/06/05/2020/70cb46af64e179aca20ec15648115c4d.pdf)
 - [Redmi Note 9 Pro](https:https://i02.appmifile.com/763_updatepdf_in/06/05/2020/ebff79a5c0f816a280d0222fdf712f80.pdf)
 - [Redmi Note 9](https:https://i02.appmifile.com/108_updatepdf_in/06/05/2020/552456c5605929001731c9cd9b807ae5.pdf)
+- [Redmi 9](https:)
