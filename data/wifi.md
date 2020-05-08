@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi Air Purifier Pro H|AC-M13-SC|Other|2020-05-07|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98022)|
 |Automatic battery-operated cleaner for household|STYTJ01ZHM|Smart Home|2020-04-27|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97736)|
 |Mi Home Security Camera 1080p (Magnetic Mount)|MJSXJ02HL|Computers & Accessories|2020-04-23|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97737)|
 |Redmi Note 9|M2003J15SG|Routers|2020-04-21|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97590)|
@@ -122,8 +123,8 @@
 |MI 8 Lite|M1808D2TG|Routers|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79175)|
 |MI 8 Lite|M1808D2TG|Phones|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79177)|
 |Mi LED Ceiling Light|MJXDD01YL|Other|2018-09-10|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78979)|
-|POCOPHONE F1|M1805E10A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78953)|
 |MI 8|M1803E1A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78675)|
+|POCOPHONE F1|M1805E10A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78953)|
 |MI MIX2S|M1803D5XA|Phones|2018-08-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78619)|
 |Mi Home Security Camera Basic 1080P|SXJ02ZM|Smart Home|2018-08-27|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78899)|
 |Redmi Note6 Pro|M1806E7TH|Phones|2018-08-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78949)|
@@ -149,4 +150,3 @@
 |MI 8|M1803E1A|Routers|2018-07-27|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78674)|
 |Redmi 6|M1804C3DG|Phones|2018-07-27|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78566)|
 |Redmi 6|M1804C3DG|Routers|2018-07-27|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78567)|
-|MI A2|M1804D2SG|Routers|2018-07-16|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78441)|
