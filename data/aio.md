@@ -7,6 +7,7 @@
 |Redmi Note 9S|M2003J6A1R|✗|✗|✗|✗|✓|
 |Redmi Note 9S|M2003J6A1I|✗|✗|✗|✗|✓|
 |Redmi Note 9 Pro Max|M2003J6B1I|✗|✗|✗|✗|✓|
+|Redmi Note 9 Pro|M2003J6B2G|✗|✓|✗|✗|✓|
 |Mi 10 Lite 5G|M2002J9G|✗|✗|✗|✗|✓|
 |Redmi Note 9S|M2003J6A1G|✓|✓|✗|✗|✓|
 |Mi All-in-One Inkjet Printer|MJPMYTJHT01|✗|✗|✗|✗|✓|
@@ -48,8 +49,8 @@
 |MI 8 Pro|M1807E8A|✗|✓|✗|✗|✓|
 |MI 8 Lite|M1808D2TG|✓|✓|✗|✗|✓|
 |Mi LED Ceiling Light|MJXDD01YL|✗|✗|✗|✗|✓|
-|POCOPHONE F1|M1805E10A|✓|✓|✗|✗|✓|
 |MI 8|M1803E1A|✓|✓|✗|✗|✓|
+|POCOPHONE F1|M1805E10A|✓|✓|✗|✗|✓|
 |MI MIX2S|M1803D5XA|✗|✓|✗|✗|✓|
 |Redmi Note6 Pro|M1806E7TH|✓|✗|✗|✗|✓|
 |Redmi Note6 Pro|M1806E7TG|✓|✓|✗|✗|✓|
@@ -60,7 +61,6 @@
 |Redmi Note 5|M1803E7SH|✓|✗|✗|✗|✓|
 |Redmi S2|M1803E6H|✓|✗|✗|✗|✓|
 |MI MAX3|M1804E4A|✗|✓|✗|✗|✓|
-|Redmi 6|M1804C3DG|✓|✓|✗|✗|✓|
 |Redmi Note 9|M2003J15SC|✗|✗|✓|✗|✗|
 ||M2001J11E|✗|✗|✓|✗|✗|
 ||M2001J11C|✗|✗|✓|✗|✗|
