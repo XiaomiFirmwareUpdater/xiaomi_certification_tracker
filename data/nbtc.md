@@ -59,4 +59,5 @@
 |XIAOMI|Mi Note 10 Lite|M2002F4LG|[B38218-20](http://mocheck.nbtc.go.th/search/1519490)|
 |Redmi|Redmi Note 9 Pro|M2003J6B2G|[B38239-20](http://mocheck.nbtc.go.th/search/1519878)|
 |Redmi|Redmi Note 9|M2003J15SS|[B38248-20](http://mocheck.nbtc.go.th/search/1520080)|
+|POCO|POCO F2 Pro|M200411G|[B38278-20](http://mocheck.nbtc.go.th/search/1520692)|
 |XIAOMI|Mi 9 Lite|M1904F3BG|[B38611-19](http://mocheck.nbtc.go.th/search/1511794)|
