@@ -60,4 +60,6 @@
 |Redmi|Redmi Note 9 Pro|M2003J6B2G|[B38239-20](http://mocheck.nbtc.go.th/search/1519878)|
 |Redmi|Redmi Note 9|M2003J15SS|[B38248-20](http://mocheck.nbtc.go.th/search/1520080)|
 |POCO|POCO F2 Pro|M200411G|[B38278-20](http://mocheck.nbtc.go.th/search/1520692)|
+|MI|Mi 10 Lite 5G|M2002J9G|[B38284-20](http://mocheck.nbtc.go.th/search/1520818)|
+|POCO|POCO F2 Pro|M2004J11G|[B38278-20](http://mocheck.nbtc.go.th/search/1520916)|
 |XIAOMI|Mi 9 Lite|M1904F3BG|[B38611-19](http://mocheck.nbtc.go.th/search/1511794)|
