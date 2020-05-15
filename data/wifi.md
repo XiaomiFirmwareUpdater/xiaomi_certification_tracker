@@ -1,5 +1,11 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Redmi Note 9|M2003J15SI|Phones|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98172)|
+|Redmi Note 9|M2003J15SI|Routers|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98171)|
+|Redmi Note 9|M2003J15SC|Phones|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98170)|
+|Redmi Note 9|M2003J15SC|Routers|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98169)|
+|Redmi Note 9|M2003J15SS|Phones|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98168)|
+|Redmi Note 9|M2003J15SS|Routers|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98167)|
 |Mi Robot Vacuum-Mop Essential|MJSTG1|Other|2020-05-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97850)|
 |Mi Air Purifier Pro H|AC-M13-SC|Other|2020-05-07|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98022)|
 |Automatic battery-operated cleaner for household|STYTJ01ZHM|Smart Home|2020-04-27|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97736)|
@@ -126,8 +132,8 @@
 |MI 8 Lite|M1808D2TG|Routers|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79175)|
 |MI 8 Lite|M1808D2TG|Phones|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79177)|
 |Mi LED Ceiling Light|MJXDD01YL|Other|2018-09-10|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78979)|
-|MI 8|M1803E1A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78675)|
 |POCOPHONE F1|M1805E10A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78953)|
+|MI 8|M1803E1A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78675)|
 |MI MIX2S|M1803D5XA|Phones|2018-08-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78619)|
 |Mi Home Security Camera Basic 1080P|SXJ02ZM|Smart Home|2018-08-27|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78899)|
 |Redmi Note6 Pro|M1806E7TH|Phones|2018-08-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78949)|
@@ -144,9 +150,3 @@
 |Redmi 6A|M1804C3CG|Routers|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78766)|
 |Redmi 6A|M1804C3CH|Phones|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78767)|
 |Redmi 6A|M1804C3CH|Routers|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78768)|
-|Redmi Note 5|M1803E7SH|Routers|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78751)|
-|Redmi Note 5|M1803E7SH|Phones|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78752)|
-|Redmi S2|M1803E6H|Phones|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78748)|
-|Redmi S2|M1803E6H|Routers|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78750)|
-|MI MAX3|M1804E4A|Phones|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78525)|
-|MI MAX3|M1804E4A|Routers|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78524)|
