@@ -1,5 +1,8 @@
 | Brand | Product | Model | Certificate |
 |---|---|---|---|
+|Redmi|Redmi Note 9|M2003J15SS|[B38248-20](http://mocheck.nbtc.go.th/search/1520080)|
+|Redmi|Redmi Note 9 Pro|M2003J6B2G|[B38239-20](http://mocheck.nbtc.go.th/search/1519878)|
+|XIAOMI|Mi Note 10 Lite|M2002F4LG|[B38218-20](http://mocheck.nbtc.go.th/search/1519490)|
 |Redmi|Redmi Note 9S|M2003J6A1G|[B38153-20](http://mocheck.nbtc.go.th/search/1518447)|
 |MI|Mi 10|M2001J2G|[B38143-20](http://mocheck.nbtc.go.th/search/1518306)|
 |XIAOMI|Mi Note 10|M1910F4G|[B38709-19](http://mocheck.nbtc.go.th/search/1513680)|
@@ -56,9 +59,6 @@
 |MI||2013062-T|[B38307-14](http://mocheck.nbtc.go.th/search/30506)|
 |MI||2013029|[B38308-14](http://mocheck.nbtc.go.th/search/30518)|
 |XIAOMI|Mi Note 10 Pro|M1910F4S|[B38710-19](http://mocheck.nbtc.go.th/search/1513647)|
-|XIAOMI|Mi Note 10 Lite|M2002F4LG|[B38218-20](http://mocheck.nbtc.go.th/search/1519490)|
-|Redmi|Redmi Note 9 Pro|M2003J6B2G|[B38239-20](http://mocheck.nbtc.go.th/search/1519878)|
-|Redmi|Redmi Note 9|M2003J15SS|[B38248-20](http://mocheck.nbtc.go.th/search/1520080)|
 |POCO|POCO F2 Pro|M200411G|[B38278-20](http://mocheck.nbtc.go.th/search/1520692)|
 |MI|Mi 10 Lite 5G|M2002J9G|[B38284-20](http://mocheck.nbtc.go.th/search/1520818)|
 |POCO|POCO F2 Pro|M2004J11G|[B38278-20](http://mocheck.nbtc.go.th/search/1520916)|
