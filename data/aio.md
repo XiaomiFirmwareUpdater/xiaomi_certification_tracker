@@ -1,5 +1,8 @@
 | Name | Model | [FCCID](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/fccid.md) | [Thailand NBTC](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/nbtc.md) | [Chinese TENAA](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tenaa_mobile.md) | [Indonesian TKDN](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tkdn.md) | [Wi-Fi Alliance](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/wifi.md)  |
 |---|---|---|---|---|---|---|
+|Redmi Note 9|M2003J15SI|✗|✗|✗|✗|✓|
+|Redmi Note 9|M2003J15SC|✗|✗|✓|✗|✓|
+|Redmi Note 9|M2003J15SS|✗|✓|✗|✗|✓|
 |Mi Robot Vacuum-Mop Essential|MJSTG1|✗|✗|✗|✗|✓|
 |Mi Home Security Camera 1080p (Magnetic Mount)|MJSXJ02HL|✗|✗|✗|✗|✓|
 |Redmi Note 9|M2003J15SG|✗|✗|✗|✗|✓|
@@ -50,8 +53,8 @@
 |MI 8 Pro|M1807E8A|✗|✓|✗|✗|✓|
 |MI 8 Lite|M1808D2TG|✓|✓|✗|✗|✓|
 |Mi LED Ceiling Light|MJXDD01YL|✗|✗|✗|✗|✓|
-|MI 8|M1803E1A|✓|✓|✗|✗|✓|
 |POCOPHONE F1|M1805E10A|✓|✓|✗|✗|✓|
+|MI 8|M1803E1A|✓|✓|✗|✗|✓|
 |MI MIX2S|M1803D5XA|✗|✓|✗|✗|✓|
 |Redmi Note6 Pro|M1806E7TH|✓|✗|✗|✗|✓|
 |Redmi Note6 Pro|M1806E7TG|✓|✓|✗|✗|✓|
@@ -59,10 +62,7 @@
 |Redmi 6|M1804C3DH|✓|✗|✗|✗|✓|
 |Redmi 6A|M1804C3CG|✓|✓|✗|✗|✓|
 |Redmi 6A|M1804C3CH|✓|✗|✗|✗|✓|
-|Redmi Note 5|M1803E7SH|✓|✗|✗|✗|✓|
-|Redmi S2|M1803E6H|✓|✗|✗|✗|✓|
-|MI MAX3|M1804E4A|✗|✓|✗|✗|✓|
-|Redmi Note 9|M2003J15SC|✗|✗|✓|✗|✗|
+||M2004J7AC|✗|✗|✓|✗|✗|
 ||M2001J11E|✗|✗|✓|✗|✗|
 ||M2001J11C|✗|✗|✓|✗|✗|
 ||M2001G7AE|✗|✗|✓|✗|✗|
@@ -77,7 +77,3 @@
 |Redmi 8|M1908C3IC|✗|✗|✓|✗|✗|
 ||M1906G7T|✗|✗|✓|✗|✗|
 ||M1906G7E|✗|✗|✓|✗|✗|
-|Mi A3|M1906F9SC|✗|✗|✓|✗|✗|
-|Mi 9 Lite|M1904F3BT|✗|✗|✓|✗|✗|
-|Mi 9 Lite|M1904F3BC|✗|✗|✓|✗|✗|
-|MI 9T|M1903F10C|✗|✗|✓|✗|✗|
