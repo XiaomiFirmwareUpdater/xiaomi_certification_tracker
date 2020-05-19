@@ -1,5 +1,6 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
+|Mi Wireless Photo Printer 1S|ZPDYJ03HT|Computers & Accessories|2020-05-18|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98239)|
 |Redmi Note 9|M2003J15SI|Phones|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98172)|
 |Redmi Note 9|M2003J15SI|Routers|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98171)|
 |Redmi Note 9|M2003J15SC|Phones|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98170)|
@@ -149,4 +150,3 @@
 |Redmi 6A|M1804C3CG|Phones|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78765)|
 |Redmi 6A|M1804C3CG|Routers|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78766)|
 |Redmi 6A|M1804C3CH|Phones|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78767)|
-|Redmi 6A|M1804C3CH|Routers|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78768)|
