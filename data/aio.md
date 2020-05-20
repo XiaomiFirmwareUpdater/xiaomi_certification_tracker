@@ -6,6 +6,7 @@
 |Mi Robot Vacuum-Mop Essential|MJSTG1|✗|✗|✗|✗|✓|
 |Mi Home Security Camera 1080p (Magnetic Mount)|MJSXJ02HL|✗|✗|✗|✗|✓|
 |Redmi Note 9|M2003J15SG|✗|✗|✗|✗|✓|
+|POCO M2 Pro|M2003J6CI|✗|✗|✗|✗|✓|
 |Mi 10 Lite 5G|M2002J9S|✗|✗|✗|✗|✓|
 |Mi 10 Lite 5G|M2002J9E|✗|✗|✓|✗|✓|
 |Redmi Note 9S|M2003J6A1R|✗|✗|✗|✗|✓|
@@ -53,15 +54,13 @@
 |MI 8 Pro|M1807E8A|✗|✓|✗|✗|✓|
 |MI 8 Lite|M1808D2TG|✓|✓|✗|✗|✓|
 |Mi LED Ceiling Light|MJXDD01YL|✗|✗|✗|✗|✓|
-|MI 8|M1803E1A|✓|✓|✗|✗|✓|
 |POCOPHONE F1|M1805E10A|✓|✓|✗|✗|✓|
+|MI 8|M1803E1A|✓|✓|✗|✗|✓|
 |MI MIX2S|M1803D5XA|✗|✓|✗|✗|✓|
 |Redmi Note6 Pro|M1806E7TH|✓|✗|✗|✗|✓|
 |Redmi Note6 Pro|M1806E7TG|✓|✓|✗|✗|✓|
 |MI A2 LITE|M1805D1SG|✓|✓|✗|✗|✓|
 |Redmi 6|M1804C3DH|✓|✗|✗|✗|✓|
-|Redmi 6A|M1804C3CG|✓|✓|✗|✗|✓|
-|Redmi 6A|M1804C3CH|✓|✗|✗|✗|✓|
 ||M2004J7AC|✗|✗|✓|✗|✗|
 ||M2001J11E|✗|✗|✓|✗|✗|
 ||M2001J11C|✗|✗|✓|✗|✗|
