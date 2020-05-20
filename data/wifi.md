@@ -16,6 +16,8 @@
 |Mi 4K Laser Projector 150|XMJGTYDS01FM|Computers & Accessories|2020-04-09|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97492)|
 |Mi Smart Space Heater S|KRDNQ05ZM|Smart Home|2020-03-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97428)|
 |MI TV|L65M5-OD|Televisions & Set Top Boxes|2020-03-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97075)|
+|POCO M2 Pro|M2003J6CI|Phones|2020-03-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97358)|
+|POCO M2 Pro|M2003J6CI|Routers|2020-03-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97360)|
 |Mi Smart Space Heater S|KRDNQ03ZM|Smart Home|2020-03-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96855)|
 |Mi 10 Lite 5G|M2002J9S|Phones|2020-03-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97316)|
 |Mi 10 Lite 5G|M2002J9E|Phones|2020-03-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97317)|
@@ -34,6 +36,7 @@
 |Redmi Note 9S|M2003J6A1G|Routers|2020-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96977)|
 |Redmi Note 9S|M2003J6A1G|Phones|2020-03-13|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96976)|
 |Mi Smart Standing Fan 1C|JLLDS01XY|Smart Home|2020-03-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97107)|
+|Mi Smart Standing Fan Pro|ZLBPSP01XY|Smart Home|2020-03-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97108)|
 |MI TV|L50M5-5ARU|Televisions & Set Top Boxes|2020-03-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97085)|
 |MI TV|L65M5-5ASP|Televisions & Set Top Boxes|2020-03-11|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97087)|
 |Mi All-in-One Inkjet Printer|MJPMYTJHT01|Computers & Accessories|2020-02-28|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA93136)|
@@ -133,8 +136,8 @@
 |MI 8 Lite|M1808D2TG|Routers|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79175)|
 |MI 8 Lite|M1808D2TG|Phones|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79177)|
 |Mi LED Ceiling Light|MJXDD01YL|Other|2018-09-10|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78979)|
-|MI 8|M1803E1A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78675)|
 |POCOPHONE F1|M1805E10A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78953)|
+|MI 8|M1803E1A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78675)|
 |MI MIX2S|M1803D5XA|Phones|2018-08-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78619)|
 |Mi Home Security Camera Basic 1080P|SXJ02ZM|Smart Home|2018-08-27|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78899)|
 |Redmi Note6 Pro|M1806E7TH|Phones|2018-08-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78949)|
@@ -147,6 +150,3 @@
 |MI MIX2S|M1803D5XA|Routers|2018-08-08|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78620)|
 |Redmi 6|M1804C3DH|Phones|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78763)|
 |Redmi 6|M1804C3DH|Routers|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78764)|
-|Redmi 6A|M1804C3CG|Phones|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78765)|
-|Redmi 6A|M1804C3CG|Routers|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78766)|
-|Redmi 6A|M1804C3CH|Phones|2018-08-03|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78767)|
