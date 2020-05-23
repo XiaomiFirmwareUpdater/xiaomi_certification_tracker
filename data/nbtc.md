@@ -62,4 +62,5 @@
 |POCO|POCO F2 Pro|M200411G|[B38278-20](http://mocheck.nbtc.go.th/search/1520692)|
 |MI|Mi 10 Lite 5G|M2002J9G|[B38284-20](http://mocheck.nbtc.go.th/search/1520818)|
 |POCO|POCO F2 Pro|M2004J11G|[B38278-20](http://mocheck.nbtc.go.th/search/1520916)|
+|Redmi|Redmi 9|M2004J19G|[B38315-20](http://mocheck.nbtc.go.th/search/1521388)|
 |XIAOMI|Mi 9 Lite|M1904F3BG|[B38611-19](http://mocheck.nbtc.go.th/search/1511794)|
