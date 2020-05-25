@@ -54,8 +54,8 @@
 |MI 8 Pro|M1807E8A|✗|✓|✗|✗|✓|
 |MI 8 Lite|M1808D2TG|✓|✓|✗|✗|✓|
 |Mi LED Ceiling Light|MJXDD01YL|✗|✗|✗|✗|✓|
-|POCOPHONE F1|M1805E10A|✓|✓|✗|✗|✓|
 |MI 8|M1803E1A|✓|✓|✗|✗|✓|
+|POCOPHONE F1|M1805E10A|✓|✓|✗|✗|✓|
 |MI MIX2S|M1803D5XA|✗|✓|✗|✗|✓|
 |Redmi Note6 Pro|M1806E7TH|✓|✗|✗|✗|✓|
 |Redmi Note6 Pro|M1806E7TG|✓|✓|✗|✗|✓|
