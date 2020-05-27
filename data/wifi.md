@@ -1,12 +1,12 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
-|Mi 10 Pro|M2001J1G|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95585)|
 |Mi 10|M2001J2G|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94245)|
-|Mi 10 Pro|M2001J1C|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95582)|
-|Mi 10 Pro|M2001J1E|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95580)|
-|Mi 10|M2001J2E|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95574)|
-|Mi 10|M2001J2I|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95578)|
 |Mi 10|M2001J2C|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95576)|
+|Mi 10|M2001J2I|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95578)|
+|Mi 10 Pro|M2001J1C|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95582)|
+|Mi 10|M2001J2E|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95574)|
+|Mi 10 Pro|M2001J1E|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95580)|
+|Mi 10 Pro|M2001J1G|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95585)|
 |Mi Wireless Photo Printer 1S|ZPDYJ03HT|Computers & Accessories|2020-05-18|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98239)|
 |Redmi Note 9|M2003J15SI|Phones|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98172)|
 |Redmi Note 9|M2003J15SI|Routers|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98171)|
