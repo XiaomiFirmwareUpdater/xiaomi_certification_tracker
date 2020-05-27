@@ -1,11 +1,23 @@
 | Name | Model | [FCCID](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/fccid.md) | [Thailand NBTC](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/nbtc.md) | [Chinese TENAA](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tenaa_mobile.md) | [Indonesian TKDN](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tkdn.md) | [Wi-Fi Alliance](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/wifi.md)  |
 |---|---|---|---|---|---|---|
+|Mi 10|M2001J2G|✗|✓|✗|✗|✓|
+|Mi 10|M2001J2C|✗|✗|✓|✗|✓|
+|Mi 10|M2001J2I|✗|✗|✗|✗|✓|
+|Mi 10 Pro|M2001J1C|✗|✗|✓|✗|✓|
+|Mi 10|M2001J2E|✗|✗|✓|✗|✓|
+|Mi 10 Pro|M2001J1E|✗|✗|✓|✗|✓|
+|Mi 10 Pro|M2001J1G|✗|✗|✗|✗|✓|
 |Redmi Note 9|M2003J15SI|✗|✗|✗|✗|✓|
 |Redmi Note 9|M2003J15SC|✗|✗|✓|✗|✓|
+|Redmi 9|M2004J19PI|✗|✗|✗|✗|✓|
 |Redmi Note 9|M2003J15SS|✗|✓|✗|✗|✓|
+|Redmi 9|M2004J19C|✗|✗|✗|✗|✓|
+|Redmi 9|M2004J19I|✗|✗|✗|✗|✓|
+|Redmi 9|M2004J19G|✗|✓|✗|✗|✓|
 |Mi Robot Vacuum-Mop Essential|MJSTG1|✗|✗|✗|✗|✓|
 |Mi Home Security Camera 1080p (Magnetic Mount)|MJSXJ02HL|✗|✗|✗|✗|✓|
 |Redmi Note 9|M2003J15SG|✗|✗|✗|✗|✓|
+|Redmi 9|M2004J19AG|✗|✗|✗|✗|✓|
 |POCO M2 Pro|M2003J6CI|✗|✗|✗|✗|✓|
 |Mi 10 Lite 5G|M2002J9S|✗|✗|✗|✗|✓|
 |Mi 10 Lite 5G|M2002J9E|✗|✗|✓|✗|✓|
@@ -17,13 +29,6 @@
 |Redmi Note 9S|M2003J6A1G|✓|✓|✗|✗|✓|
 |Mi All-in-One Inkjet Printer|MJPMYTJHT01|✗|✗|✗|✗|✓|
 |Redmi 8A Pro/Redmi 8A Dual|M2001C3K3I|✗|✗|✗|✗|✓|
-|Mi 10 Pro|M2001J1G|✗|✗|✗|✗|✓|
-|Mi 10|M2001J2E|✗|✗|✓|✗|✓|
-|Mi 10|M2001J2C|✗|✗|✓|✗|✓|
-|Mi 10|M2001J2I|✗|✗|✗|✗|✓|
-|Mi 10 Pro|M2001J1E|✗|✗|✓|✗|✓|
-|Mi 10 Pro|M2001J1C|✗|✗|✓|✗|✓|
-|Mi 10|M2001J2G|✗|✓|✗|✗|✓|
 |Mi Note 10 Pro|M1910F4S|✗|✓|✗|✗|✓|
 |Mi Note 10 Pro|M1910F4G|✓|✓|✗|✗|✓|
 |Redmi Note 8T|M1908C3XG|✓|✗|✗|✗|✓|
@@ -57,10 +62,7 @@
 |MI 8|M1803E1A|✓|✓|✗|✗|✓|
 |POCOPHONE F1|M1805E10A|✓|✓|✗|✗|✓|
 |MI MIX2S|M1803D5XA|✗|✓|✗|✗|✓|
-|Redmi Note6 Pro|M1806E7TH|✓|✗|✗|✗|✓|
-|Redmi Note6 Pro|M1806E7TG|✓|✓|✗|✗|✓|
-|MI A2 LITE|M1805D1SG|✓|✓|✗|✗|✓|
-|Redmi 6|M1804C3DH|✓|✗|✗|✗|✓|
+||M2004J7BC|✗|✗|✓|✗|✗|
 ||M2004J7AC|✗|✗|✓|✗|✗|
 ||M2001J11E|✗|✗|✓|✗|✗|
 ||M2001J11C|✗|✗|✓|✗|✗|
@@ -75,4 +77,3 @@
 |Redmi Note8|M1908C3JC|✗|✗|✓|✗|✗|
 |Redmi 8|M1908C3IC|✗|✗|✓|✗|✗|
 ||M1906G7T|✗|✗|✓|✗|✗|
-||M1906G7E|✗|✗|✓|✗|✗|
