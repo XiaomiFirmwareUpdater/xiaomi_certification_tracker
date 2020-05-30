@@ -1,12 +1,12 @@
 | Name | Model | [FCCID](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/fccid.md) | [Thailand NBTC](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/nbtc.md) | [Chinese TENAA](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tenaa_mobile.md) | [Indonesian TKDN](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/tkdn.md) | [Wi-Fi Alliance](https://github.com/XiaomiFirmwareUpdater/xiaomi_certification_tracker/blob/master/data/wifi.md)  |
 |---|---|---|---|---|---|---|
-|Mi 10 Pro|M2001J1E|✗|✗|✓|✗|✓|
-|Mi 10|M2001J2G|✗|✓|✗|✗|✓|
-|Mi 10|M2001J2C|✗|✗|✓|✗|✓|
-|Mi 10 Pro|M2001J1G|✗|✗|✗|✗|✓|
-|Mi 10|M2001J2I|✗|✗|✗|✗|✓|
 |Mi 10 Pro|M2001J1C|✗|✗|✓|✗|✓|
+|Mi 10|M2001J2G|✗|✓|✗|✗|✓|
+|Mi 10|M2001J2I|✗|✗|✗|✗|✓|
+|Mi 10|M2001J2C|✗|✗|✓|✗|✓|
 |Mi 10|M2001J2E|✗|✗|✓|✗|✓|
+|Mi 10 Pro|M2001J1G|✗|✗|✗|✗|✓|
+|Mi 10 Pro|M2001J1E|✗|✗|✓|✗|✓|
 |Redmi Note 9|M2003J15SI|✗|✗|✗|✗|✓|
 |Redmi Note 9|M2003J15SC|✗|✗|✓|✗|✓|
 |Redmi 9|M2004J19PI|✗|✗|✗|✗|✓|
@@ -59,8 +59,8 @@
 |MI 8 Pro|M1807E8A|✗|✓|✗|✗|✓|
 |MI 8 Lite|M1808D2TG|✓|✓|✗|✗|✓|
 |Mi LED Ceiling Light|MJXDD01YL|✗|✗|✗|✗|✓|
-|POCOPHONE F1|M1805E10A|✓|✓|✗|✗|✓|
 |MI 8|M1803E1A|✓|✓|✗|✗|✓|
+|POCOPHONE F1|M1805E10A|✓|✓|✗|✗|✓|
 |MI MIX2S|M1803D5XA|✗|✓|✗|✗|✓|
 ||M2004J7BC|✗|✗|✓|✗|✗|
 ||M2004J7AC|✗|✗|✓|✗|✗|
