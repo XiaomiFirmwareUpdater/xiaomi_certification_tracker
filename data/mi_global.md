@@ -34,6 +34,8 @@
 - [Mi 10 Pro](https:https://i02.appmifile.com/35_updatepdf_in/06/05/2020/523c2d070dd33096144845044396db3e.pdf)
 - [Mi 10](https:https://i02.appmifile.com/861_updatepdf_in/06/05/2020/34b946d401dd57fe24ed70281ea3e7b4.pdf)
 - [Mi Note 10 Lite](https:https://i02.appmifile.com/785_updatepdf_in/06/05/2020/57af1ead0633cd7fcfe6b1110e8fb5ee.pdf)
+- [Mi 10 Lite 5G](https:https://i02.appmifile.com/412_updatepdf_in/02/06/2020/2974f45d24beec5342efd4bdff2937ad.pdf)
+- [POCO F2 Pro](https:https://i02.appmifile.com/784_updatepdf_in/02/06/2020/085a0488b1071ac3262c85e727a65aa0.pdf)
 - [MDY-09-EF](https:https://download.appmifile.com/561_updatepdf_in/08/04/2018/aeaa1004-7478-470b-8fc1-a0269f175c41.pdf)
 - [MDY-09-EU](https:https://download.appmifile.com/6_updatepdf_in/03/01/2019/bfdaae8a-0b43-41a3-b746-09237acb9816.pdf)
 - [MDY-10-EP](https:https://download.appmifile.com/315_updatepdf_in/18/03/2019/56926d08-3c8a-4468-a59b-7cf29cccec84.pdf)
