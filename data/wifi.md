@@ -1,12 +1,12 @@
 | Product | Model | Type | Date | Certification |
 |---|---|---|---|---|
-|Mi 10|M2001J2E|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95574)|
-|Mi 10|M2001J2C|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95576)|
 |Mi 10|M2001J2G|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94245)|
-|Mi 10 Pro|M2001J1E|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95580)|
-|Mi 10 Pro|M2001J1G|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95585)|
+|Mi 10|M2001J2C|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95576)|
+|Mi 10|M2001J2E|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95574)|
 |Mi 10|M2001J2I|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95578)|
+|Mi 10 Pro|M2001J1G|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95585)|
 |Mi 10 Pro|M2001J1C|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95582)|
+|Mi 10 Pro|M2001J1E|Routers|2020-05-26|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA95580)|
 |Mi Wireless Photo Printer 1S|ZPDYJ03HT|Computers & Accessories|2020-05-18|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98239)|
 |Redmi Note 9|M2003J15SI|Phones|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98172)|
 |Redmi Note 9|M2003J15SI|Routers|2020-05-14|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA98171)|
@@ -40,6 +40,8 @@
 |Mi 10 Lite 5G|M2002J9E|Phones|2020-03-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97317)|
 |Mi 10 Lite 5G|M2002J9S|Routers|2020-03-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97319)|
 |Mi 10 Lite 5G|M2002J9E|Routers|2020-03-24|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97318)|
+|Mi Note 10 Lite|M2002F4LG​|Phones|2020-03-20|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96499)|
+|Mi Note 10 Lite|M2002F4LG​|Routers|2020-03-19|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96498)|
 |Redmi Note 9S|M2003J6A1R|Phones|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97166)|
 |Redmi Note 9S|M2003J6A1R|Routers|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97167)|
 |Redmi Note 9 Pro|M2003J6A1I|Phones|2020-03-17|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA97168)|
@@ -146,7 +148,5 @@
 |MI 8 Lite|M1808D2TG|Routers|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79175)|
 |MI 8 Lite|M1808D2TG|Phones|2018-09-12|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA79177)|
 |Mi LED Ceiling Light|MJXDD01YL|Other|2018-09-10|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78979)|
-|POCOPHONE F1|M1805E10A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78953)|
 |MI 8|M1803E1A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78675)|
-|MI MIX2S|M1803D5XA|Phones|2018-08-29|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78619)|
-|Mi Home Security Camera Basic 1080P|SXJ02ZM|Smart Home|2018-08-27|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78899)|
+|POCOPHONE F1|M1805E10A|Phones|2018-08-30|[Here](http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA78953)|
