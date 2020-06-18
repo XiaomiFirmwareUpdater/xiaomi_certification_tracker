@@ -1,5 +1,7 @@
-from sqlalchemy.orm import sessionmaker
+from scrapy.utils.project import get_project_settings
+from sqlalchemy.orm import sessionmaker, Session
 
+from certification_tracker import telegram_bot
 from certification_tracker.xiaomi_certification.database import engine, metadata
 from certification_tracker.xiaomi_certification.database.models.mi_global import Item
 from certification_tracker.xiaomi_certification.database.tables.mi_global import create_table
@@ -16,17 +18,30 @@ class MiGlobalPipeline:
             create_table(self.table)
             metadata.create_all(engine)
         session: sessionmaker = sessionmaker(bind=engine)
-        self.session = session()
+        self.session: Session = session()
 
     def close_spider(self, spider):
         self.session.close()
 
     def process_item(self, item, spider):
-        if self.session.query(Item).filter_by(device=item.get('device')).count() < 1:
+        device = item.get('device')
+        region = item.get('region')
+        certification = item.get('certification')
+        if self.session.query(Item).filter_by(device=device).count() < 1:
             self.session.add(
-                Item(device=item.get('device'),
-                     certification=item.get('certificate'),
-                     region=item.get('region'))
+                Item(device=device,
+                     certification=certification,
+                     region=region)
             )
-            self.session.commit()
+            telegram_bot.send_telegram_message(
+                f"New Xiaomi device Added to Mi {region} website!\n*Name:* {device}"
+            )
+        else:
+            query = self.session.query(Item).filter(
+                Item.device == device).filter(
+                Item.region == region).first()
+            if query.certification != certification:
+                query.certification = certification
+                self.session.add(query)
+        self.session.commit()
         return item

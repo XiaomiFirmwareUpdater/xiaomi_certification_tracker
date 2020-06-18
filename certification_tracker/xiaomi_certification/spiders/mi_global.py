@@ -18,6 +18,6 @@ class MiGlobalSpider(Spider):
         for item in items:
             yield {
                 'device': item.xpath('.//a/text()').get(),
-                'certificate': item.xpath('.//a/@href').get(),
+                'certification': item.xpath('.//a/@href').get(),
                 'region': 'Global' if 'global' in response.url else 'India'
             }

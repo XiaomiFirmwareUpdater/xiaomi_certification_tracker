@@ -138,3 +138,4 @@ config.*
 *.db
 data/*_changes.md
 data/*_old.md
+telegram_config.json

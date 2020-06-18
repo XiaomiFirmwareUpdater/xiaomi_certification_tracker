@@ -1,1 +1,3 @@
-__version__ = '2.0.0'
+from certification_tracker.utils.telegram import TelegramBot
+
+telegram_bot = TelegramBot()
