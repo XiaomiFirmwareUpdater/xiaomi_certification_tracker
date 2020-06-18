@@ -3,6 +3,10 @@ language: python
 python:
   - "3.6"
 
+branches:
+  only:
+    - master
+
 script:
   - pip3 install -r requirements.txt
   - python3 fccid.py
