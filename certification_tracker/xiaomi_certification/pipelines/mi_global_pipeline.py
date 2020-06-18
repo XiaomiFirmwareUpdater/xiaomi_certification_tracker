@@ -1,4 +1,3 @@
-from scrapy.utils.project import get_project_settings
 from sqlalchemy.orm import sessionmaker, Session
 
 from certification_tracker import telegram_bot
@@ -27,15 +26,18 @@ class MiGlobalPipeline:
         device = item.get('device')
         region = item.get('region')
         certification = item.get('certification')
+
         if self.session.query(Item).filter_by(device=device).count() < 1:
             self.session.add(
                 Item(device=device,
                      certification=certification,
                      region=region)
             )
-            telegram_bot.send_telegram_message(
-                f"New Xiaomi device Added to Mi {region} website!\n*Name:* {device}"
-            )
+
+            message = f"*New Xiaomi device Added to Mi {region} website!*\n\n*Name:* {device}\n"
+            if certification:
+                message += f"*Certification*: [Here]({certification})\n"
+            telegram_bot.send_telegram_message(message)
         else:
             query = self.session.query(Item).filter(
                 Item.device == device).filter(
@@ -43,5 +45,6 @@ class MiGlobalPipeline:
             if query.certification != certification:
                 query.certification = certification
                 self.session.add(query)
+
         self.session.commit()
         return item
