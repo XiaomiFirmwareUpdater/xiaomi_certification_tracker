@@ -14,15 +14,17 @@ BOT_NAME = 'xiaomi_certification'
 SPIDER_MODULES = ['xiaomi_certification.spiders']
 NEWSPIDER_MODULE = 'xiaomi_certification.spiders'
 
+# set feed export encoding to utf-8
+FEED_EXPORT_ENCODING = 'utf-8'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'xiaomi_certification (+http://www.yourdomain.com)'
+# USER_AGENT = 'xiaomi_certification (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-#CONCURRENT_REQUESTS = 32
+# CONCURRENT_REQUESTS = 32
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
