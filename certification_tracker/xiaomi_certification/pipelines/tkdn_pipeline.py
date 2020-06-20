@@ -1,5 +1,6 @@
 from sqlalchemy.orm import sessionmaker, Session
 
+from certification_tracker import telegram_bot
 from certification_tracker.xiaomi_certification.database import engine, metadata
 from certification_tracker.xiaomi_certification.database.models.tkdn import Item
 from certification_tracker.xiaomi_certification.database.tables.tkdn import create_table
@@ -38,13 +39,13 @@ class TkdnPipeline:
                      link=link)
             )
 
-            # telegram_bot.send_telegram_message(
-            #     f"*New TKDN Certificate added!*\n\n"
-            #     f"*Model:* {model}\n"
-            #     f"*Reference Number:* {reference}\n"
-            #     f"*Date:* {date}\n"
-            #     f"*Certification:* [{certification}]({link})\n"
-            # )
+            telegram_bot.send_telegram_message(
+                f"*New TKDN Certificate added!*\n\n"
+                f"*Model:* {model}\n"
+                f"*Reference Number:* {reference}\n"
+                f"*Date:* {date}\n"
+                f"*Certification:* [{certification}]({link})\n"
+            )
 
         self.session.commit()
         return item
