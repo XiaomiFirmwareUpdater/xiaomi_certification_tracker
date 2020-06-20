@@ -4,11 +4,11 @@ from certification_tracker.xiaomi_certification.database import metadata
 
 
 def create_table(table):
-      Table(table, metadata,
-            Column('id', Integer(), primary_key=True, autoincrement=True),
-            Column('model', String(), nullable=False),
-            Column('certification', String(), nullable=False),
-            Column('reference', String(), nullable=False),
-            Column('date', String(), nullable=False),
-            Column('link', String(), nullable=False)
-            )
+    Table(table, metadata,
+          Column('id', Integer(), primary_key=True, autoincrement=True),
+          Column('model', String(), nullable=False),
+          Column('certification', String(), nullable=False),
+          Column('reference', String(), nullable=False),
+          Column('date', String(), nullable=False),
+          Column('link', String(), nullable=False)
+          )
