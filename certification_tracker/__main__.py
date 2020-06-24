@@ -1,6 +1,5 @@
 """Xiaomi Certification Tracker entry point"""
-from certification_tracker.runner import crawl, reactor
+from certification_tracker.runner import run
 
 if __name__ == '__main__':
-    crawl()
-    reactor.run()
+    run()
