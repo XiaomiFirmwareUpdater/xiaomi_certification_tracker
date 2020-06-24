@@ -21,7 +21,7 @@ class TelegramBot:
         :param bot_token: Telegram Bot API access token
         :param chat: Telegram chat username or id that will be used to send updates to
         """
-        config_path = Path(__package__).absolute().parent.parent
+        config_path = Path(__package__).absolute().parent
         with open(f"{config_path}/telegram_config.json", 'r') as config:
             self.config: dict = json.load(config)
         self.bot: Bot = Bot(token=self.config.get('tg_bot_token'))
