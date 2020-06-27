@@ -52,7 +52,7 @@ class EecSpider(Spider):
             brand = re.search(r'(?:&quot;|«)(\w+)(?:&quot;|»)', model_info)
             brand = brand.group(1) if brand else ""
             _item = re.search(r'(?:модели|модель): (.*)', model_info)
-            _item = _item.group(1) if _item else model_info
+            _item = _item.group(1).replace('.', '') if _item else model_info
             yield {
                 'brand': brand,
                 'item': _item,
