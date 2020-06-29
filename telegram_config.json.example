@@ -1,4 +1,4 @@
 {
     "tg_bot_token": "",
-    "tg_chat": ""
+    "tg_chats": ["", ""]
 }

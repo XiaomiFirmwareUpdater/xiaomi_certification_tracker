@@ -26,8 +26,9 @@ class TelegramBot:
             self.config: dict = json.load(config)
         self.bot: Bot = Bot(token=self.config.get('tg_bot_token'))
         self.updater = Updater(bot=self.bot, use_context=True)
-        chat = self.config.get('tg_chat')
-        self.chat = int(chat) if chat.startswith('-') else f"@{self.config.get('tg_chat')}"
+        chats = self.config.get('tg_chats')
+        self.chats = [int(chat) if chat.startswith('-') else f"@{self.config.get('tg_chat')}"
+                      for chat in chats]
 
     def send_telegram_message(self, message: str):
         """
@@ -35,10 +36,10 @@ class TelegramBot:
         :param message: A string of the update message to be sent
         :return:
         """
-        message = f"{message}\n{self.chat}"
-        self.updater.bot.send_message(
-            chat_id=self.chat, text=message,
-            parse_mode='Markdown',
-            disable_web_page_preview='yes')
-
-        sleep(5)
+        for chat in self.chats:
+            message = f"{message}\n{chat}"
+            self.updater.bot.send_message(
+                chat_id=chat, text=message,
+                parse_mode='Markdown',
+                disable_web_page_preview='yes')
+            sleep(5)
