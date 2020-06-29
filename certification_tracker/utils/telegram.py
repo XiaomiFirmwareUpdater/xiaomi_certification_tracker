@@ -37,7 +37,7 @@ class TelegramBot:
         :return:
         """
         for chat in self.chats:
-            message = f"{message}\n{chat}"
+            message = f"{message}\n{self.chats[0]}"
             self.updater.bot.send_message(
                 chat_id=chat, text=message,
                 parse_mode='Markdown',
