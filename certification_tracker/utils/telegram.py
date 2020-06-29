@@ -27,7 +27,7 @@ class TelegramBot:
         self.bot: Bot = Bot(token=self.config.get('tg_bot_token'))
         self.updater = Updater(bot=self.bot, use_context=True)
         chats = self.config.get('tg_chats')
-        self.chats = [int(chat) if chat.startswith('-') else f"@{self.config.get('tg_chat')}"
+        self.chats = [int(chat) if chat.startswith('-') else f"@{self.config.get('tg_chats')}"
                       for chat in chats]
 
     def send_telegram_message(self, message: str):
