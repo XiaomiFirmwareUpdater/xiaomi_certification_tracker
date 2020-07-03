@@ -6,6 +6,7 @@ A side project by XiaomiFirmwareUpdater, python 3 script that scrapes Xiaomi pro
 - Bluetooth launch studio
 - EEC (Eurasian Economic Comission)
 - FCCID (US)
+- Google Play Devices
 - IMDA (Singapore) 
 - Mi Global and India Websites
 - MIIT (China)

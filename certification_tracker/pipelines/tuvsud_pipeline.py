@@ -1,5 +1,6 @@
 from sqlalchemy.orm import sessionmaker, Session
 
+from certification_tracker import telegram_bot
 from certification_tracker.database import engine, metadata
 from certification_tracker.database.models.tuvsud import Item
 from certification_tracker.database.tables.tuvsud import create_table
@@ -36,13 +37,13 @@ class TuvsudPipeline:
                      date=date)
             )
 
-            # telegram_bot.send_telegram_message(
-            #     f"*New TÜV SÜD Certificate added!*\n\n"
-            #     f"*Models:* {models}\n"
-            #     f"*Type:* {category}\n"
-            #     f"*Certification:* {certification}\n"
-            #     f"*Date:* {date}\n"
-            # )
+            telegram_bot.send_telegram_message(
+                f"*New TÜV SÜD Certificate added!*\n\n"
+                f"*Models:* {models}\n"
+                f"*Type:* {category}\n"
+                f"*Certification:* {certification}\n"
+                f"*Date:* {date}\n"
+            )
 
         self.session.commit()
         return item
