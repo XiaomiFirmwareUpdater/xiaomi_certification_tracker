@@ -4,6 +4,7 @@ A side project by XiaomiFirmwareUpdater, python 3 script that scrapes Xiaomi pro
 #### Currently added websites:
 - BIS (India)
 - Bluetooth launch studio
+- Certipedia
 - EEC (Eurasian Economic Comission)
 - FCCID (US)
 - Google Play Devices
