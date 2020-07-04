@@ -17,3 +17,4 @@ A side project by XiaomiFirmwareUpdater, python 3 script that scrapes Xiaomi pro
 - TKDN (Indonesia)
 - TÜV SÜD (Germany)
 - Wi-Fi Org
+- XSMS Database
