@@ -5,7 +5,7 @@ from scrapy import Spider
 class FccidSpider(Spider):
     name = 'fccid'
     allowed_domains = ['fccid.io']
-    start_urls = ['https://fccid.io/2AFZZ/']
+    start_urls = ['https://fccid.io/2AFZZ/', 'https://fccid.io/2AIMR/']
 
     custom_settings = {
         'ITEM_PIPELINES': {
