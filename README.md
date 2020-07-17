@@ -12,6 +12,7 @@ A side project by XiaomiFirmwareUpdater, python 3 script that scrapes Xiaomi pro
 - Mi Global and India Websites
 - MIIT (China)
 - NBTC (Thailand)
+- POSTEL (Indonesia)
 - SIRIM (Malaysia)
 - TENAA (China)
 - TKDN (Indonesia)
