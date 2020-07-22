@@ -1,5 +1,6 @@
 from sqlalchemy.orm import sessionmaker, Session
 
+from certification_tracker import telegram_bot
 from certification_tracker.database import engine, metadata
 from certification_tracker.database.models.eec import Item
 from certification_tracker.database.tables.eec import create_table
@@ -38,9 +39,9 @@ class EecPipeline:
             message = f"*New EEC Certificate added!*\n\n" \
                       f"*Brand:* {brand}\n" \
                       f"*Item:* `{_item}`\n" \
-                      f"*Certification:* {certification}\n" \
+                      f"*Certification:* [Here]({certification})\n" \
                       f"*Date:* {date}\n"
-            # telegram_bot.send_telegram_message(message)
+            telegram_bot.send_telegram_message(message)
 
         self.session.commit()
         return item
