@@ -7,6 +7,7 @@ A side project by XiaomiFirmwareUpdater, python 3 script that scrapes Xiaomi pro
 - Certipedia
 - EEC (Eurasian Economic Comission)
 - FCCID (US)
+- Global Certification Forum
 - Google Play Devices
 - IMDA (Singapore) 
 - Mi Global and India Websites
