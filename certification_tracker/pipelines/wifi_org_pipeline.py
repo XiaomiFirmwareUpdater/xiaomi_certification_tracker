@@ -29,6 +29,14 @@ class WifiOrgPipeline:
         date = item.get('date').strip('\xa0')
         certification = item.get('certification')
 
+        # temporary code foe updating certificate url after wi-fi.org website is updated on 16-11-2020
+        # old = self.session.query(Item).filter_by(model=model).filter_by(category=category).filter_by(
+        #     date=date).filter_by(device=device).first()
+        # if old:
+        #     if old.certification != certification:
+        #         old.certification = certification
+        #         self.session.commit()
+
         if self.session.query(Item).filter_by(model=model).filter_by(category=category).count() < 1:
             self.session.add(
                 Item(device=device,

@@ -20,7 +20,7 @@ class WifiOrgSpider(Spider):
             yield {
                 'device': item.xpath('.//div[@class="details"]/span[1]/text()').get(),
                 'model': item.xpath('.//div[@class="details"]/span[2]/text()').get(),
-                'category': item.xpath('.//div[@class="details"]/span[4]/text()').get(),
-                'date': item.xpath('.//div[@class="details"]/span[5]/text()').get(),
+                'category': item.xpath('.//div[@class="details"]/span[5]/text()').get(),
+                'date': item.xpath('.//div[@class="details"]/span[6]/text()').get(),
                 'certification': item.xpath('.//a[@class="download-cert"]/@href').get()
             }
