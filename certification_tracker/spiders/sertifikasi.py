@@ -16,8 +16,9 @@ class SertifikasiSpider(Spider):
     def parse(self, response):
         items = response.xpath('//tbody/tr')
         for item in items:
+            name = item.xpath('.//td[7]/text()').get() or item.xpath('.//td[5]/text()').get()
             yield {
-                'name': item.xpath('.//td[7]/text()').get().strip(),
+                'name': name.strip(),
                 'model': item.xpath('.//td[6]/text()').get().strip(),
                 'description': item.xpath('.//td[4]/text()').get().strip(),
                 'certification': item.xpath('.//td[1]/text()').get().strip(),

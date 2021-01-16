@@ -24,7 +24,7 @@ class TuvsudPipeline:
 
     def process_item(self, item, spider):
         models = item.get('models')
-        category = item.get('category')
+        category = item.get('category') or ""
         certification = item.get('certification')
         date = item.get('date')
 
