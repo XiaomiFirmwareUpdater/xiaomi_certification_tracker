@@ -1,14 +1,21 @@
 # -*- coding: utf-8 -*-
-import re
+import json
 
-from scrapy import Spider
+from scrapy import Spider, Request
 
 
 class MiitSpider(Spider):
     name = 'miit'
-    allowed_domains = ['zwfw.miit.gov.cn']
-    start_url = "https://zwfw.miit.gov.cn/miit/resultSearch?wd=%E5%B0%8F%E7%B1%B3*&pagenow=1"
-    start_urls = [start_url]
+    allowed_domains = ['ythzxfw.miit.gov.cn']
+    url = "https://ythzxfw.miit.gov.cn/user-center/tbAppSearch/selectResult"
+    headers = {
+        'Authorization': 'null',
+        'Content-Type': 'application/json;charset=utf-8',
+        'Origin': 'https://ythzxfw.miit.gov.cn',
+        'Connection': 'keep-alive',
+        'Referer': 'https://ythzxfw.miit.gov.cn/resultQuery',
+    }
+    data = '{"categoryId": "", "currentPage": 1, "pageSize": 500, "searchContent": "小米"}'
 
     custom_settings = {
         'ITEM_PIPELINES': {
@@ -16,24 +23,30 @@ class MiitSpider(Spider):
         }
     }
 
-    def parse(self, response):
-        items = response.xpath('//dd/a/span')
-        for item in items:
-            item = item.get()
-            certification_type = re.search(r'证书种类：([^；]+)；', item)
-            name = re.search(r'设备名称：([^；]+)；', item)
-            model = re.search(r'设备型号：([^；]+)；', item)
-            certification = re.search(r'(?:许可证编号|核准证编号)：([^；]+)；', item)
-            date = re.search(r'发证日期：([^；]+)；', item)
-            yield {
-                'device': name.group(1) if name else "",
-                'model': model.group(1) if model else "",
-                'category': "Phone" if certification_type else "Other",
-                'date': date.group(1) if date else "",
-                'certification': certification.group(1) if certification else ""
-            }
+    def start_requests(self):
+        yield Request(
+            url=self.url,
+            method="POST",
+            headers=self.headers,
+            body=self.data,
+            callback=self.parse
+        )
 
-        # next_page = response.xpath('//a[@aria-label="Next"]/@onclick').get()
-        # if next_page:
-        #     request_url = self.start_url.split("pagenow=")[0] + 'pagenow=' + next_page.split("'")[1]
-        #     yield response.follow(request_url, callback=self.parse)
+    def parse(self, response):
+        data = json.loads(response.body.decode('utf8'))
+        if not data and not data.get('success') is False:
+            return
+        data = data['params']['tbAppArticle']['list']
+        for item in data:
+            certification_type = item.get('articleField08')  # 证书种类
+            name = item.get('articleField02')  # 设备名称
+            model = item.get('articleField03')  # 设备型号
+            certification = item.get('articleField01')  # 许可证编号
+            date = item.get('articleField06') or item.get('createTime')  # 发证日期
+            yield {
+                'device': name if name else "",
+                'model': model if model else "",
+                'category': "Phone" if certification_type else "Other",
+                'date': date.split(' ')[0] if date else "",
+                'certification': certification if certification else ""
+            }
