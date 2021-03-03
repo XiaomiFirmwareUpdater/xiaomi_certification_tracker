@@ -1,5 +1,6 @@
 from sqlalchemy.orm import sessionmaker, Session
 
+from certification_tracker import telegram_bot
 from certification_tracker.database import engine, metadata
 from certification_tracker.database.models.gcf import Item
 from certification_tracker.database.tables.gcf import create_table
@@ -35,12 +36,12 @@ class GCFPipeline:
                      certification=certification)
             )
 
-            # telegram_bot.send_telegram_message(
-            #     f"*New Global Certification Forum Certificate added!*\n\n"
-            #     f"*Model:* {model}\n"
-            #     f"*Device:* {device}\n"
-            #     f"*Date:* {date}\n"
-            #     f"*Certification*: [Here]({certification})\n")
+            telegram_bot.send_telegram_message(
+                f"*New Global Certification Forum Certificate added!*\n\n"
+                f"*Model:* {model}\n"
+                f"*Device:* {device}\n"
+                f"*Date:* {date}\n"
+                f"*Certification*: [Here]({certification})\n")
 
         self.session.commit()
         return item
