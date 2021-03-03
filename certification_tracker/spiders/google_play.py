@@ -17,7 +17,8 @@ class GooglePlaySpider(CSVFeedSpider):
 
     def parse_row(self, response, row):
         i = {}
-        if row['Retail Branding'].lower() == 'xiaomi':
+        brand = row['Retail Branding'].lower()
+        if brand in ['xiaomi', 'redmi', 'poco']:
             i['name'] = row['Marketing Name']
             i['codename'] = row['Device']
             i['model'] = row['Model']
