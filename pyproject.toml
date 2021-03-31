@@ -7,7 +7,7 @@ authors = ["yshalsager <ysh-alsager@hotmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 scrapy = "^2.4.1"
-sqlalchemy = "^1.4.3"
+sqlalchemy = "^1.4.4"
 python-telegram-bot = "^13.4"
 
 [tool.poetry.dev-dependencies]
