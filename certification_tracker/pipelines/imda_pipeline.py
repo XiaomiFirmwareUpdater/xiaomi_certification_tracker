@@ -28,7 +28,7 @@ class IdmaPipeline:
         description = item.get('description')
 
         if self.session.query(Item).filter_by(brand=brand).filter_by(
-                model=model).filter_by(description=description).count() < 1:
+                model=model).count() < 1:
             self.session.add(
                 Item(brand=brand,
                      model=model,

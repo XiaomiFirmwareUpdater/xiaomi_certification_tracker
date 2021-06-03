@@ -38,7 +38,7 @@ class ImdaSpider(Spider):
         items = response.xpath('//tbody/tr')
         for item in items:
             yield {
-                'brand': item.xpath('.//td[5]/text()').get().strip(),
-                'model': item.xpath('.//td[6]/text()').get().strip(),
-                'description': item.xpath('.//td[4]/text()').get().strip(),
+                'brand': item.xpath('.//td[3]/text()').get().strip(),
+                'model': item.xpath('.//td[4]/text()').get().strip(),
+                'description': item.xpath('.//td[2]/text()').get().strip(),
             }
