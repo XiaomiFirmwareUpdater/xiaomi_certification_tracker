@@ -19,7 +19,7 @@ class ImdaSpider(Spider):
 
     custom_settings = {
         'ITEM_PIPELINES': {
-            'certification_tracker.pipelines.imda_pipeline.IdmaPipeline': 400
+            'certification_tracker.pipelines.imda_pipeline.ImdaPipeline': 400
         }
     }
 

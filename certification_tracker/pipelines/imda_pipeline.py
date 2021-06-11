@@ -7,7 +7,7 @@ from certification_tracker.database.tables.imda import create_table
 from certification_tracker.database.utils import table_exists
 
 
-class IdmaPipeline:
+class ImdaPipeline:
     def __init__(self):
         self.session = None
         self.table = "imda"
@@ -36,7 +36,7 @@ class IdmaPipeline:
             )
 
             telegram_bot.send_telegram_message(
-                f"*New IDMA Certificate added!*\n\n"
+                f"*New IMDA Certificate added!*\n\n"
                 f"*Brand:* {brand}\n"
                 f"*Model:* {model}\n"
                 f"*Description:* {description}\n"
