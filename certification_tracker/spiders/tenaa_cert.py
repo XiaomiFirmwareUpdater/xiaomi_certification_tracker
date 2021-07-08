@@ -29,6 +29,8 @@ class TenaaCertSpider(Spider):
                 model = row.xpath('.//td[2]/text()').get()
                 date = row.xpath('.//td[5]/text()').get()
                 photos = response.urljoin(row.xpath('.//td[8]/a/@href').get())
+            if not certification:
+                continue
             yield {
                 'certification': certification,
                 'model': model,
