@@ -11,7 +11,7 @@ sqlalchemy = "^1.4.31"
 python-telegram-bot = "^13.11"
 
 [tool.poetry.dev-dependencies]
-pytest = "^6.2"
+pytest = "^7.0"
 
 [build-system]
 requires = ["poetry>=0.12"]
