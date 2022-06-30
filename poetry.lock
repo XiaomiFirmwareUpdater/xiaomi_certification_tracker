@@ -393,11 +393,11 @@ testing = ["argcomplete", "hypothesis (>=3.56)", "mock", "nose", "pygments (>=2.
 
 [[package]]
 name = "python-telegram-bot"
-version = "13.12"
+version = "13.13"
 description = "We have made you a wrapper you can't refuse"
 category = "main"
 optional = false
-python-versions = ">=3.6"
+python-versions = ">=3.7"
 
 [package.dependencies]
 APScheduler = "3.6.3"
@@ -677,7 +677,7 @@ testing = ["coverage (>=5.0.3)", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "a16f70be6a7384df89a4dfab3f19bde904da1bb671fca1a88baee4c9ccefc96e"
+content-hash = "7666528deafcac05799ac108a541214f1d50de1e602ab883ac0362de16590b46"
 
 [metadata.files]
 apscheduler = [
@@ -978,8 +978,8 @@ pytest = [
     {file = "pytest-7.1.2.tar.gz", hash = "sha256:a06a0425453864a270bc45e71f783330a7428defb4230fb5e6a731fde06ecd45"},
 ]
 python-telegram-bot = [
-    {file = "python-telegram-bot-13.12.tar.gz", hash = "sha256:daf55fb6f418b8752317fd12df824dd717e3229a87d83810a4cdd6e442f66de5"},
-    {file = "python_telegram_bot-13.12-py3-none-any.whl", hash = "sha256:08246ecccbb0e7b2ac43d3b545c3bdabc71194b20be9620cd0ed96a2eb66820d"},
+    {file = "python-telegram-bot-13.13.tar.gz", hash = "sha256:4296d81a38b7e5ef1f9795651128e58fb354678b8dc4db93ca166c96828c57b2"},
+    {file = "python_telegram_bot-13.13-py3-none-any.whl", hash = "sha256:13f83ec4433f24a67e7a2df0206dfde83c1627c92880a2fcf95a83585b3cc589"},
 ]
 pytz = [
     {file = "pytz-2021.1-py2.py3-none-any.whl", hash = "sha256:eb10ce3e7736052ed3623d49975ce333bcd712c7bb19a58b9e2089d4057d0798"},
