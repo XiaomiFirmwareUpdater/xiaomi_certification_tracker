@@ -454,7 +454,7 @@ six = "*"
 
 [[package]]
 name = "scrapy"
-version = "2.7.0"
+version = "2.7.1"
 description = "A high-level Web Crawling and Web Scraping framework"
 category = "main"
 optional = false
@@ -688,7 +688,7 @@ testing = ["coverage (>=5.0.3)", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "28ae61b0fda2117750297ab907b423d5b069a77c3ae78f1aef4f69102b26276f"
+content-hash = "84bdfddcccc7da783034bf33f1676e1c87634839d794ce502ab5e69f740a3235"
 
 [metadata.files]
 apscheduler = [
@@ -993,8 +993,8 @@ requests-file = [
     {file = "requests_file-1.5.1-py2.py3-none-any.whl", hash = "sha256:dfe5dae75c12481f68ba353183c53a65e6044c923e64c24b2209f6c7570ca953"},
 ]
 scrapy = [
-    {file = "Scrapy-2.7.0-py2.py3-none-any.whl", hash = "sha256:844647e5c29097cd0cfcb0efbc951bf967830d608cfb3613fe17ff9b137a97ae"},
-    {file = "Scrapy-2.7.0.tar.gz", hash = "sha256:4acbe0f1f5fb5ea91353512b8958ed304bc25f6dfbde2839a0d87a49435158b9"},
+    {file = "Scrapy-2.7.1-py2.py3-none-any.whl", hash = "sha256:ba5c99a0a6bc5d51708fb1919843cad650711d2baef3124e4ac3f2e1759f4ca6"},
+    {file = "Scrapy-2.7.1.tar.gz", hash = "sha256:30fa408353d24b1df979df2ea4afbd19b4ae02fb2207f218d246332f1e1cf14e"},
 ]
 service-identity = [
     {file = "service_identity-18.1.0-py2.py3-none-any.whl", hash = "sha256:001c0707759cb3de7e49c078a7c0c9cd12594161d3bf06b9c254fdcb1a60dc36"},
