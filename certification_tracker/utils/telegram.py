@@ -3,8 +3,7 @@ import json
 from pathlib import Path
 from time import sleep
 
-from telegram import Bot
-from telegram.ext import Updater
+from requests import post
 
 
 class TelegramBot:
@@ -18,14 +17,9 @@ class TelegramBot:
     def __init__(self):
         """
         TelegramBot class constructor
-        :param bot_token: Telegram Bot API access token
-        :param chat: Telegram chat username or id that will be used to send updates to
         """
-        config_path = Path(__package__).absolute().parent
-        with open(f"{config_path}/telegram_config.json", 'r') as config:
-            self.config: dict = json.load(config)
-        self.bot: Bot = Bot(token=self.config.get('tg_bot_token'))
-        self.updater = Updater(bot=self.bot, use_context=True)
+        self.config: dict = json.loads((Path(__file__).parent.parent.parent / "telegram_config.json").read_text())
+        self.bot_token: str = self.config.get('tg_bot_token')
         chats = self.config.get('tg_chats')
         self.chats = [int(chat) if chat.startswith('-') else f"@{chat}" for chat in chats]
 
@@ -37,8 +31,12 @@ class TelegramBot:
         """
         for chat in self.chats:
             message = f"{message}\n{self.chats[0]}"
-            self.updater.bot.send_message(
-                chat_id=chat, text=message,
-                parse_mode='Markdown',
-                disable_web_page_preview='yes')
+            params = {
+                'chat_id': chat,
+                'text': message,
+                'parse_mode': "Markdown",
+                'disable_web_page_preview': "yes"
+            }
+            url = f"https://api.telegram.org/bot{self.bot_token}/sendMessage"
+            post(url, data=params)
             sleep(5)
