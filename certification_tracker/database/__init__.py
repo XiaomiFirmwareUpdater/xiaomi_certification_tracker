@@ -3,7 +3,8 @@ import logging
 
 from scrapy.utils.project import get_project_settings
 from sqlalchemy import create_engine, MetaData
-from sqlalchemy.engine import Connection, Engine
+from sqlalchemy.engine import Connection
+from sqlalchemy.engine.base import Engine
 
 logger = logging.getLogger(__name__)
 engine: Engine = create_engine(get_project_settings().get("CONNECTION_STRING"),
