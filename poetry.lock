@@ -795,13 +795,13 @@ six = "*"
 
 [[package]]
 name = "scrapy"
-version = "2.11.0"
+version = "2.11.1"
 description = "A high-level Web Crawling and Web Scraping framework"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "Scrapy-2.11.0-py2.py3-none-any.whl", hash = "sha256:a7f36544d1f5ceb13cff9b7bc904bd7c0fc43a3af0fbe5aa2034fd937cf092d1"},
-    {file = "Scrapy-2.11.0.tar.gz", hash = "sha256:3cbdedce0c3f0e0482d61be2d7458683be7cd7cf14b0ee6adfbaddb80f5b36a5"},
+    {file = "Scrapy-2.11.1-py2.py3-none-any.whl", hash = "sha256:f1edee0cd214512054c01a8d031a8d213dddb53492b02c9e66256e3efe90d175"},
+    {file = "Scrapy-2.11.1.tar.gz", hash = "sha256:733a039c7423e52b69bf2810b5332093d4e42a848460359c07b02ecff8f73ebe"},
 ]
 
 [package.dependencies]
@@ -820,7 +820,7 @@ queuelib = ">=1.4.2"
 service-identity = ">=18.1.0"
 setuptools = "*"
 tldextract = "*"
-Twisted = ">=18.9.0,<23.8.0"
+Twisted = ">=18.9.0"
 w3lib = ">=1.17.0"
 "zope.interface" = ">=5.1.0"
 
@@ -1153,4 +1153,4 @@ testing = ["coverage (>=5.0.3)", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "8adf4c241966fda9eb2fe4a0c1bc723e592af0172f314c376fb2d7c00ea27b89"
+content-hash = "e35f6ab954bbd033156d62ef2bb6bdcfea2c58022e96256a7be7ee4ca76b0153"
