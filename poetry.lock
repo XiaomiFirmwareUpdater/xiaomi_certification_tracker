@@ -432,18 +432,21 @@ files = [
 
 [[package]]
 name = "incremental"
-version = "22.10.0"
-description = "\"A small library that versions your Python projects.\""
+version = "24.7.2"
+description = "A small library that versions your Python projects."
 optional = false
-python-versions = "*"
+python-versions = ">=3.8"
 files = [
-    {file = "incremental-22.10.0-py2.py3-none-any.whl", hash = "sha256:b864a1f30885ee72c5ac2835a761b8fe8aa9c28b9395cacf27286602688d3e51"},
-    {file = "incremental-22.10.0.tar.gz", hash = "sha256:912feeb5e0f7e0188e6f42241d2f450002e11bbc0937c65865045854c24c0bd0"},
+    {file = "incremental-24.7.2-py3-none-any.whl", hash = "sha256:8cb2c3431530bec48ad70513931a760f446ad6c25e8333ca5d95e24b0ed7b8fe"},
+    {file = "incremental-24.7.2.tar.gz", hash = "sha256:fb4f1d47ee60efe87d4f6f0ebb5f70b9760db2b2574c59c8e8912be4ebd464c9"},
 ]
 
+[package.dependencies]
+setuptools = ">=61.0"
+tomli = {version = "*", markers = "python_version < \"3.11\""}
+
 [package.extras]
-mypy = ["click (>=6.0)", "mypy (==0.812)", "twisted (>=16.4.0)"]
-scripts = ["click (>=6.0)", "twisted (>=16.4.0)"]
+scripts = ["click (>=6.0)"]
 
 [[package]]
 name = "iniconfig"
@@ -912,13 +915,13 @@ tests = ["coverage[toml] (>=5.0.2)", "pytest"]
 
 [[package]]
 name = "setuptools"
-version = "71.1.0"
+version = "72.1.0"
 description = "Easily download, build, install, upgrade, and uninstall Python packages"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "setuptools-71.1.0-py3-none-any.whl", hash = "sha256:33874fdc59b3188304b2e7c80d9029097ea31627180896fb549c578ceb8a0855"},
-    {file = "setuptools-71.1.0.tar.gz", hash = "sha256:032d42ee9fb536e33087fb66cac5f840eb9391ed05637b3f2a76a7c8fb477936"},
+    {file = "setuptools-72.1.0-py3-none-any.whl", hash = "sha256:5a03e1860cf56bb6ef48ce186b0e557fdba433237481a9a625176c2831be15d1"},
+    {file = "setuptools-72.1.0.tar.gz", hash = "sha256:8d243eff56d095e5817f796ede6ae32941278f542e0f941867cc05ae52b162ec"},
 ]
 
 [package.extras]
