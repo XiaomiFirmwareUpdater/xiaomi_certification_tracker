@@ -8,7 +8,7 @@ authors = ["yshalsager <ysh-alsager@hotmail.com>"]
 python = "^3.8"
 scrapy = "^2.11.2"
 sqlalchemy = "^2.0.14"
-requests = "^2.32.0"
+requests = "^2.32.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^8.0.0"
