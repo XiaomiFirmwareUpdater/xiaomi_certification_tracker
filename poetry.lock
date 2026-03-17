@@ -1566,6 +1566,7 @@ description = "A high-level Web Crawling and Web Scraping framework"
 optional = false
 python-versions = ">=3.8"
 groups = ["main"]
+markers = "python_full_version == \"3.8.*\" or platform_python_implementation == \"PyPy\""
 files = [
     {file = "Scrapy-2.11.2-py2.py3-none-any.whl", hash = "sha256:4be353d6abbb942a9f7e7614ca8b5f3d9037381176ac8d8859c8cac676e74fa0"},
     {file = "scrapy-2.11.2.tar.gz", hash = "sha256:dfbd565384fc3fffeba121f5a3a2d0899ac1f756d41432ca0879933fbfb3401d"},
@@ -1591,6 +1592,72 @@ tldextract = "*"
 Twisted = ">=18.9.0"
 w3lib = ">=1.17.0"
 "zope.interface" = ">=5.1.0"
+
+[[package]]
+name = "scrapy"
+version = "2.13.4"
+description = "A high-level Web Crawling and Web Scraping framework"
+optional = false
+python-versions = ">=3.9"
+groups = ["main"]
+markers = "python_full_version >= \"3.9.0\" and platform_python_implementation != \"PyPy\" and python_full_version < \"3.14.0\""
+files = [
+    {file = "scrapy-2.13.4-py3-none-any.whl", hash = "sha256:9bf36700aefa4983cc48b2cb0e1564161a340e19f73862778e2ed44ec5bbde6a"},
+    {file = "scrapy-2.13.4.tar.gz", hash = "sha256:e09bce40c56b56f9f86b0d078a0e5cdd08283c83076170ce7a8eec7189ac2493"},
+]
+
+[package.dependencies]
+cryptography = ">=37.0.0"
+cssselect = ">=0.9.1"
+defusedxml = ">=0.7.1"
+itemadapter = ">=0.1.0"
+itemloaders = ">=1.0.1"
+lxml = ">=4.6.0"
+packaging = "*"
+parsel = ">=1.5.0"
+protego = ">=0.1.15"
+pydispatcher = {version = ">=2.0.5", markers = "platform_python_implementation == \"CPython\""}
+pyopenssl = ">=22.0.0"
+pypydispatcher = {version = ">=2.1.0", markers = "platform_python_implementation == \"PyPy\""}
+queuelib = ">=1.4.2"
+service-identity = ">=18.1.0"
+tldextract = "*"
+twisted = ">=21.7.0,<=25.5.0"
+w3lib = ">=1.17.0"
+zope-interface = ">=5.1.0"
+
+[[package]]
+name = "scrapy"
+version = "2.14.2"
+description = "A high-level Web Crawling and Web Scraping framework"
+optional = false
+python-versions = ">=3.10"
+groups = ["main"]
+markers = "python_full_version >= \"3.14.0\" and platform_python_implementation != \"PyPy\""
+files = [
+    {file = "scrapy-2.14.2-py3-none-any.whl", hash = "sha256:dc6ddf6e1601fc6c50191d2e4d4a65497e37c4b848f542f21c9278a55f86af42"},
+    {file = "scrapy-2.14.2.tar.gz", hash = "sha256:23bf5d37503ad16973bd09604b9c36249bd4bbc282c48ddedbf58105d4639337"},
+]
+
+[package.dependencies]
+cryptography = ">=37.0.0"
+cssselect = ">=0.9.1"
+defusedxml = ">=0.7.1"
+itemadapter = ">=0.1.0"
+itemloaders = ">=1.0.1"
+lxml = ">=4.6.4"
+packaging = "*"
+parsel = ">=1.5.0"
+protego = ">=0.1.15"
+pydispatcher = {version = ">=2.0.5", markers = "platform_python_implementation == \"CPython\""}
+pyopenssl = ">=22.0.0"
+pypydispatcher = {version = ">=2.1.0", markers = "platform_python_implementation == \"PyPy\""}
+queuelib = ">=1.4.2"
+service-identity = ">=18.1.0"
+tldextract = "*"
+twisted = ">=21.7.0,<=25.5.0"
+w3lib = ">=1.17.0"
+zope-interface = ">=5.1.0"
 
 [[package]]
 name = "service-identity"
@@ -1624,6 +1691,7 @@ description = "Easily download, build, install, upgrade, and uninstall Python pa
 optional = false
 python-versions = ">=3.8"
 groups = ["main"]
+markers = "python_full_version == \"3.8.*\" or platform_python_implementation == \"PyPy\""
 files = [
     {file = "setuptools-75.3.4-py3-none-any.whl", hash = "sha256:2dd50a7f42dddfa1d02a36f275dbe716f38ed250224f609d35fb60a09593d93e"},
     {file = "setuptools-75.3.4.tar.gz", hash = "sha256:b4ea3f76e1633c4d2d422a5d68ab35fd35402ad71e6acaa5d7e5956eb47e8887"},
